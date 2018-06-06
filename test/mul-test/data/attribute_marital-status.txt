@@ -1,0 +1,3 @@
+ marital-status; alone, Married
+ alone; Divorced, Never-married, Separated, Widowed
+ Married; Married-civ-spouse, Married-AF-spouse, Married-spouse-absent

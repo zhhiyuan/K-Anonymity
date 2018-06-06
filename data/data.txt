@@ -1,0 +1,6 @@
+Lawyer,male,28,Cancer
+Engineer,male,25,HIV
+Doctor,female,30,Asthma
+Writer,female,34,HIV
+Singer,female,32,Hepatitis
+remove_set.sort(reverse=True)
