@@ -8,7 +8,6 @@ Anonymity_data=[]
 Trees = GetTrees()   #保存属性的树
 Th = 0.4   #阈值：单个属性的信息损失量
 
-
 def Init():
     '''
     初始化，生成树,设置阈值，初始化要匿名的属性值
@@ -55,15 +54,9 @@ def Anonymity():
                 Anonymity_data.append(each)
                 EQ[-1] = EQ[-1] + 1  # 更新K值
         tmp_data=Remove(tmp_data,EQ[:-1],QID)
-
     return Anonymity_data
 
-if __name__ == '__main__':
 
+if __name__ == '__main__':
     Anonymity_data=Anonymity()
     Save2File(Anonymity_data)
-
-
-
-
-

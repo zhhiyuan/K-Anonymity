@@ -1,7 +1,6 @@
 from treelib import Tree
 
 class Tree1(Tree):
-
     def createTree(self,path):
         infile = open(path, 'r')
         lines = infile.readlines()  # 读取多行

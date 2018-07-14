@@ -1,0 +1,5 @@
+39,70000, Never-married, White, Male, United-States
+37,80000, Never-married, White, Male, United-States
+28,330000, Married-civ-spouse, Black, Female, Cuba
+38,70000, Never-married, White, Male, United-States
+39,80000, Never-married, White, Male, United-States
