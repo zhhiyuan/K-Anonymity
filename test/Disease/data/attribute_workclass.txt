@@ -1,0 +1,3 @@
+workclass;Private,gov
+Private;Self-emp-not-inc,Self-emp-inc
+gov;Federal-gov,Local-gov

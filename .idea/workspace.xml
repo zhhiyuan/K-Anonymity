@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d446b6dd-8400-43ca-9d49-b85d0259452b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/CreatData.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/boyi.iml" afterPath="$PROJECT_DIR$/.idea/boyi.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/CreatData.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/attribute.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/attribute_age.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/attribute_disease.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/attribute_marital-status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/attribute_sex.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/attribute_weight.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Disease/data/attribute_workclass.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/creattree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/CreatData.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/mul-test/src/creattree.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/Anonymity.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/Anonymity.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/attribute.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/attribute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/attribute_age.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/attribute_age.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/attribute_native-country.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/attribute_native-country.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/attribute_race.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/attribute_race.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/attribute_weight.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/attribute_weight.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/data.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/old_data.txt" afterPath="$PROJECT_DIR$/test/mul-test/data/old_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/data/process.py" afterPath="$PROJECT_DIR$/test/mul-test/data/process.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/src/K_Anonymity.py" afterPath="$PROJECT_DIR$/test/mul-test/src/K_Anonymity.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/src/creattree.py" afterPath="$PROJECT_DIR$/test/mul-test/src/creattree.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/src/model.py" afterPath="$PROJECT_DIR$/test/mul-test/src/model.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/mul-test/src/tree.py" afterPath="$PROJECT_DIR$/test/mul-test/src/tree.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,21 +23,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/K_Anonymity$K_Anonymity__2_.coverage" NAME="K_Anonymity (2) Coverage Results" MODIFIED="1531558719017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/Disease/src" />
+    <SUITE FILE_PATH="coverage/K_Anonymity$K_Anonymity.coverage" NAME="K_Anonymity Coverage Results" MODIFIED="1531552300083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/boyi$K_Anonymity__1_.coverage" NAME="K_Anonymity (1) Coverage Results" MODIFIED="1528210134577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/mul-test/src" />
     <SUITE FILE_PATH="coverage/boyi$process.coverage" NAME="process Coverage Results" MODIFIED="1527867600497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/mul-test/data" />
     <SUITE FILE_PATH="coverage/boyi$tree.coverage" NAME="tree Coverage Results" MODIFIED="1527557595376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/K_Anonymity$CreatData__1_.coverage" NAME="CreatData (1) Coverage Results" MODIFIED="1531557949886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/Disease/data" />
     <SUITE FILE_PATH="coverage/boyi$test.coverage" NAME="test Coverage Results" MODIFIED="1527557732396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/K_Anonymity$K_Anonymity__1_.coverage" NAME="K_Anonymity (1) Coverage Results" MODIFIED="1531459022548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/mul-test/src" />
+    <SUITE FILE_PATH="coverage/K_Anonymity$CreatData.coverage" NAME="CreatData Coverage Results" MODIFIED="1531552098028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/Disease" />
+    <SUITE FILE_PATH="coverage/K_Anonymity$K_Anonymity__1_.coverage" NAME="K_Anonymity (1) Coverage Results" MODIFIED="1531552285911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/mul-test/src" />
     <SUITE FILE_PATH="coverage/boyi$K_Anonymity.coverage" NAME="K_Anonymity Coverage Results" MODIFIED="1527607852489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/boyi$creattree.coverage" NAME="creattree Coverage Results" MODIFIED="1527523664732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="K_Anonymity.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/mul-test/src/K_Anonymity.py">
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Disease/src/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2257">
-              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="-19">
+              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreatData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Disease/data/CreatData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1262">
+              <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="K_Anonymity.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Disease/src/K_Anonymity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -50,61 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreatData.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/CreatData.py">
+      <file leaf-file-name="Anonymity.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/Disease/data/Anonymity.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="2923">
+              <caret line="1000" column="0" lean-forward="true" selection-start-line="1000" selection-start-column="0" selection-end-line="1000" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="attribute_workclass.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_workclass.txt">
+      <file leaf-file-name="tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda/Lib/site-packages/treelib/tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Anonymity.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/mul-test/data/Anonymity.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="attribute.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="attribute_age.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_age.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="attribute_marital-status.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_marital-status.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="2" selection-end-column="70" />
+            <state relative-caret-position="203">
+              <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,6 +104,12 @@
     <findStrings>
       <find>Never-married</find>
       <find>1030000</find>
+      <find>hiv</find>
+      <find>diabetes</find>
+      <find>diabetesankylosing</find>
+      <find>HIV</find>
+      <find>ankylosing</find>
+      <find>hereditary diseases</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,7 +141,6 @@
         <option value="$PROJECT_DIR$/test/mul-test/data/attribute_weight.txt" />
         <option value="$PROJECT_DIR$/test/mul-test/data/attribute_marital-status.txt" />
         <option value="$PROJECT_DIR$/test/mul-test/data/attribute_race.txt" />
-        <option value="$PROJECT_DIR$/test/mul-test/data/attribute_sex.txt" />
         <option value="$PROJECT_DIR$/test/mul-test/data/attribute_native-country.txt" />
         <option value="$PROJECT_DIR$/test/mul-test/data/attribute.txt" />
         <option value="$PROJECT_DIR$/test/mul-test/data/data.txt" />
@@ -162,6 +148,17 @@
         <option value="$PROJECT_DIR$/test/mul-test/src/K_Anonymity.py" />
         <option value="$PROJECT_DIR$/test/mul-test/src/model.py" />
         <option value="$PROJECT_DIR$/test/CreatData.py" />
+        <option value="$PROJECT_DIR$/test/Disease/CreatData.py" />
+        <option value="$PROJECT_DIR$/test/mul-test/data/attribute_sex.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/data/attribute_sex.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/data/attribute_marital-status.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/data/attribute.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/data/sensitive_attribute.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/data/attribute_weight.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/data/data.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/data/CreatData.py" />
+        <option value="$PROJECT_DIR$/test/Disease/data/attribute_disease.txt" />
+        <option value="$PROJECT_DIR$/test/Disease/src/K_Anonymity.py" />
       </list>
     </option>
   </component>
@@ -176,9 +173,9 @@
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="976" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="715" />
+    <option name="width" value="1213" />
     <option name="height" value="1088" />
   </component>
   <component name="ProjectView">
@@ -208,25 +205,33 @@
             <path>
               <item name="K-Anonymity" type="b2602c69:ProjectViewProjectNode" />
               <item name="K-Anonymity" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="K-Anonymity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="K-Anonymity" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Disease" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="K-Anonymity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="K-Anonymity" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Disease" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="K-Anonymity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="K-Anonymity" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Disease" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="K-Anonymity" type="b2602c69:ProjectViewProjectNode" />
               <item name="K-Anonymity" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="K-Anonymity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="K-Anonymity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="mul-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="K-Anonymity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="K-Anonymity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="mul-test" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,10 +242,16 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../paillier/paillier" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\code\Python Project\boyi\K-Anonymity\test\mul-test\data" />
+      <recent name="H:\code\Python Project\boyi\K-Anonymity\test\Disease\data" />
+      <recent name="H:\code\Python Project\boyi\K-Anonymity\test\Disease" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\code\Python Project\boyi\K-Anonymity\test\Disease\data" />
       <recent name="E:\document\code\Python Project\boyi\data" />
     </key>
   </component>
@@ -256,7 +267,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.K_Anonymity (1)">
+  <component name="RunManager" selected="Python.K_Anonymity (2)">
+    <configuration name="CreatData (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/Disease/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="boyi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/Disease/data/CreatData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="CreatData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/Disease" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="boyi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="H:\code\Python Project\boyi\K-Anonymity\test\Disease\data\CreatData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="K_Anonymity (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,6 +318,24 @@
       <module name="boyi" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/mul-test/src/K_Anonymity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="K_Anonymity (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/Disease/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="boyi" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/Disease/src/K_Anonymity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,74 +358,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="process" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/mul-test/data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="boyi" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/mul-test/data/process.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="boyi" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\document\code\Python Project\boyi\src\model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="boyi" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.K_Anonymity" />
-      <item index="3" class="java.lang.String" itemvalue="Python.process" />
-      <item index="4" class="java.lang.String" itemvalue="Python.K_Anonymity (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.K_Anonymity" />
+      <item index="1" class="java.lang.String" itemvalue="Python.K_Anonymity (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.CreatData" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CreatData (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.K_Anonymity (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.K_Anonymity (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.process" />
+        <item index="0" class="java.lang.String" itemvalue="Python.K_Anonymity (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CreatData (1)" />
         <item index="2" class="java.lang.String" itemvalue="Python.K_Anonymity" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.K_Anonymity (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CreatData" />
       </list>
     </recent_temporary>
   </component>
@@ -378,19 +389,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19322917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09791667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33679834" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33264032" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.508316" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32224533" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -411,7 +421,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="48" />
+      <option name="time" value="50" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -421,57 +431,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/ntpath.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/_bootlocale.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/treelib/node.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/treelib/tree.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/codecs.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/treenode.py" />
-    <entry file="file://$PROJECT_DIR$/src/CaculatePay.py" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/adult.txt" />
-    <entry file="file://$PROJECT_DIR$/data/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/Anonymity.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/attribute">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/attribute_age">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/conditions.csv" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/demographics.csv" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/informs_DOBMM.txt" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/informs_DOBYY.txt" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/informs_EDUCYEAR.txt" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/informs_income.txt" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/informs_marry.txt" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/informs_RACEX.txt" />
     <entry file="file://$PROJECT_DIR$/../../../QQ文件/adult.yaml" />
     <entry file="file://$PROJECT_DIR$/../../../QQ文件/adult.data" />
     <entry file="file://$PROJECT_DIR$/test/mul-test/data/old_data.txt">
@@ -490,27 +449,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/mul-test/data/adult_relationship.txt" />
     <entry file="file://$PROJECT_DIR$/test/mul-test/data/adult_occupation.txt" />
-    <entry file="file://$PROJECT_DIR$/src/creattree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/mul-test/src/creattree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1517">
-          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/K_Anonymity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-592">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -532,13 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_sex.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_race.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -550,14 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="426" lean-forward="true" selection-start-line="0" selection-start-column="426" selection-end-line="0" selection-end-column="426" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/treelib/tree.py" />
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_weight.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333">
-          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -576,17 +499,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/mul-test/src/model1.py" />
-    <entry file="file://$PROJECT_DIR$/src/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/mul-test/src/model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -597,9 +516,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Anaconda/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="135" column="33" lean-forward="false" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/mul-test/src/K_Anonymity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2257">
+        <state relative-caret-position="694">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -607,34 +542,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/Anonymity.txt">
+    <entry file="file://$PROJECT_DIR$/src/K_Anonymity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="194">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute.txt">
+    <entry file="file://$PROJECT_DIR$/test/Disease/src/creattree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        <state relative-caret-position="333">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/mul-test/src/creattree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creattree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_age.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="388">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_marital-status.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="2" selection-end-column="70" />
+        <state relative-caret-position="111">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_weight.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -647,10 +606,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/CreatData.py">
+    <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute_sex.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/data.data">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/mul-test/data/attribute.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/mul-test/data/Anonymity.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="107" lean-forward="true" selection-start-line="1" selection-start-column="107" selection-end-line="1" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="551" column="0" lean-forward="false" selection-start-line="551" selection-start-column="0" selection-end-line="551" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/attribute.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/_bootlocale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="319" column="0" lean-forward="false" selection-start-line="319" selection-start-column="0" selection-end-line="319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/src/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/attribute_age.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/attribute_marital-status.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/attribute_sex.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/sensitive_attribute.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/treelib/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/attribute_workclass.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/attribute_weight.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="795" column="41" lean-forward="false" selection-start-line="795" selection-start-column="38" selection-end-line="795" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/src/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/CreatData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1262">
+          <caret line="33" column="36" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/attribute_disease.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/src/K_Anonymity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Disease/data/Anonymity.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2923">
+          <caret line="1000" column="0" lean-forward="true" selection-start-line="1000" selection-start-column="0" selection-end-line="1000" selection-end-column="0" />
           <folding />
         </state>
       </provider>

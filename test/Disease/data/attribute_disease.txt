@@ -1,0 +1,7 @@
+Diseases;internal medicine,surgery,immunology,hereditary diseases
+internal medicine;others,fibromyalgia
+surgery;burns
+immunology;ankylosing spondylitis,infectious diseases
+hereditary diseases;primary immunodeficiency disease,congenital ear deformity
+infectious diseases;HIV,leprosy,tuberculosis,epidemic b encephalitis,
+others;malignant lymphoma,diabetes,glioma
