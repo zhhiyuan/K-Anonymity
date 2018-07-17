@@ -70,6 +70,7 @@ def Equal(a,b,QID):
     :param QID: 属性位置
     :return: 对应属性相同，返回True,不相同返回False
     '''
+    QID=QID[:-1]
     for i in QID:
         if a[i]!=b[i]:
             return False

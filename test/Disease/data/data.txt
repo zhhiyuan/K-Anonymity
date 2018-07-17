@@ -1,1000 +1,1000 @@
-52,female,180,Married,Self-emp-inc,congenital ear deformity
-54,female,170,Widowed,Federal-gov,crus fracture
-32,male,285,Widowed,Federal-gov,rhinitis
-22,female,170,Separated,Self-emp-not-inc,arthritis
-53,male,145,alone,workclass,rhinitis
-63,female,130,alone,workclass,ankylosing spondylitis
-62,female,145,Never-married,Local-gov,osteoporosis
-50,male,170,marital-status,workclass,headache
-60,female,195,Divorced,Federal-gov,diabetes
-36,female,120,Married,Federal-gov,epidemic b encephalitis
-42,female,280,Married-civ-spouse,Federal-gov,diarrhea
-36,female,90,alone,Self-emp-not-inc,tonsillitis
-52,female,175,Married-civ-spouse,Local-gov,neck injury
-19,female,205,Married-civ-spouse,Self-emp-inc,tonsillitis
-46,female,210,Married-AF-spouse,Federal-gov,drug allergy
-53,male,130,alone,Federal-gov,acute pharyngitis
-55,female,295,Married-civ-spouse,workclass,chilblain
-30,male,285,Married-AF-spouse,workclass,periodontitis
-62,female,215,alone,Self-emp-not-inc,drug allergy
-57,male,150,Married-civ-spouse,Local-gov,diarrhea
-43,female,200,marital-status,Local-gov,cough
-59,male,160,marital-status,Self-emp-not-inc,periodontitis
-57,male,225,Married,gov,chicken pox
-27,male,215,alone,Local-gov,arthritis
-48,female,175,Never-married,gov,fever
-31,female,280,Married,workclass,periodontitis
-63,female,260,Widowed,Federal-gov,crus fracture
-26,female,155,Never-married,Private,malignant lymphoma
-39,male,140,alone,Self-emp-inc,neck injury
-55,female,140,Married-civ-spouse,Local-gov,myopia
-53,male,225,marital-status,Federal-gov,periodontitis
-32,female,205,Married-AF-spouse,Self-emp-not-inc,periodontitis
-47,female,135,Never-married,workclass,cough
-29,male,95,Married-civ-spouse,Local-gov,myopia
-61,female,230,Married-spouse-absent,Private,neck injury
-52,female,110,Never-married,workclass,tonsillitis
-40,female,205,Married-spouse-absent,Local-gov,primary immunodeficiency disease
-23,male,260,alone,Local-gov,diabetes
-60,male,90,Married-AF-spouse,Self-emp-inc,diabetes
-48,male,175,Married-AF-spouse,Self-emp-inc,headache
-18,female,170,Married,Federal-gov,headache
-63,female,130,alone,Local-gov,myopia
-56,female,285,Married-spouse-absent,workclass,myopia
-52,male,260,alone,Federal-gov,epidemic b encephalitis
-52,male,225,Widowed,Self-emp-inc,fibromyalgia
-37,male,205,Separated,Local-gov,chicken pox
-41,male,195,Widowed,Federal-gov,headache
-63,male,115,Married-AF-spouse,gov,chilblain
-41,female,130,Widowed,Self-emp-not-inc,epidemic b encephalitis
-46,male,215,Married-spouse-absent,Self-emp-inc,tonsillitis
-47,female,100,Divorced,workclass,epidemic b encephalitis
-54,male,280,Married-spouse-absent,Local-gov,rhinitis
-38,female,245,alone,workclass,acute pharyngitis
-57,female,100,Divorced,Self-emp-inc,chicken pox
-63,female,140,alone,Self-emp-inc,neck injury
-28,female,285,Married,Self-emp-not-inc,arthritis
-46,male,240,alone,Local-gov,cough
-21,male,220,marital-status,Federal-gov,crus fracture
-34,male,145,Married-spouse-absent,workclass,congenital ear deformity
-61,female,115,Married-AF-spouse,Self-emp-inc,chicken pox
-36,male,225,Widowed,Local-gov,cough
-57,male,270,Married-civ-spouse,workclass,neck injury
-63,male,125,Never-married,Self-emp-not-inc,periodontitis
-18,male,90,Never-married,Private,osteoporosis
-39,male,135,alone,Self-emp-inc,acute pharyngitis
-56,male,90,alone,Private,headache
-20,male,145,Married-AF-spouse,Private,fever
-57,female,220,alone,Local-gov,diarrhea
-59,male,250,Married,Federal-gov,neck injury
-39,female,135,Married,Federal-gov,chicken pox
-52,female,295,Married,Federal-gov,chicken pox
-25,female,90,Divorced,gov,fever
-49,female,100,Widowed,workclass,neck injury
-31,male,295,Married-AF-spouse,Self-emp-inc,fibromyalgia
-64,female,135,Separated,gov,primary immunodeficiency disease
-63,male,275,Separated,Federal-gov,headache
-23,female,215,alone,Private,periodontitis
-25,male,225,alone,Federal-gov,osteoporosis
-46,male,250,Married-spouse-absent,workclass,diarrhea
-54,female,255,alone,Self-emp-not-inc,periodontitis
-62,female,220,Separated,gov,fever
-56,female,290,Married-civ-spouse,workclass,headache
-34,male,210,Widowed,workclass,myopia
-40,female,205,Married,Self-emp-inc,arthritis
-38,female,250,Married-civ-spouse,workclass,drug allergy
-55,male,275,Widowed,workclass,drug allergy
-49,female,130,Married-civ-spouse,Federal-gov,myopia
-28,male,150,Married-civ-spouse,gov,acute pharyngitis
-64,male,260,Separated,Self-emp-inc,neck injury
-45,male,250,alone,Federal-gov,acute pharyngitis
-60,female,245,marital-status,Local-gov,cough
-64,female,140,Married-civ-spouse,Private,osteoporosis
-64,male,165,Separated,Private,myopia
-52,male,230,Widowed,gov,tuberculosis
-41,male,145,Married-AF-spouse,workclass,diabetes
-44,female,265,alone,Local-gov,chicken pox
-50,female,225,Married-spouse-absent,gov,acute pharyngitis
-49,female,155,alone,Private,epidemic b encephalitis
-64,female,270,alone,gov,ankylosing spondylitis
-35,female,240,Divorced,Federal-gov,acute pharyngitis
-19,female,125,Separated,gov,cough
-23,female,270,alone,Self-emp-not-inc,diarrhea
-33,male,285,alone,Self-emp-inc,drug allergy
-29,male,105,Separated,Self-emp-inc,headache
-28,male,240,marital-status,Self-emp-inc,crus fracture
-61,male,270,Widowed,workclass,crus fracture
-38,female,185,Married-civ-spouse,Self-emp-not-inc,headache
-38,female,285,Divorced,Local-gov,chilblain
-37,male,90,marital-status,Self-emp-not-inc,headache
-47,male,150,Separated,gov,arthritis
-60,female,225,Married-spouse-absent,gov,crus fracture
-40,female,130,Married-AF-spouse,gov,cough
-44,female,265,Divorced,gov,chilblain
-48,male,140,Married-AF-spouse,Federal-gov,periodontitis
-34,male,125,Married-spouse-absent,Local-gov,periodontitis
-62,male,145,marital-status,Local-gov,chilblain
-27,male,280,Married-spouse-absent,Self-emp-not-inc,cough
-52,male,270,Separated,Self-emp-not-inc,diarrhea
-25,male,170,alone,Self-emp-inc,diarrhea
-22,female,235,Widowed,Federal-gov,arthritis
-25,male,165,marital-status,Local-gov,drug allergy
-61,female,245,Separated,gov,headache
-45,male,205,Married-civ-spouse,Federal-gov,headache
-25,female,265,Married-AF-spouse,Private,chicken pox
-47,male,120,Married,Local-gov,chilblain
-37,female,110,Married,workclass,myopia
-57,male,200,Never-married,Federal-gov,acute pharyngitis
-49,male,185,Never-married,Private,chilblain
-35,female,220,Separated,Private,drug allergy
-47,female,180,Widowed,gov,chicken pox
-43,female,155,Widowed,Federal-gov,periodontitis
-64,female,225,alone,Federal-gov,primary immunodeficiency disease
-37,male,220,Divorced,workclass,periodontitis
-35,male,175,alone,Local-gov,neck injury
-39,male,290,Married-AF-spouse,Self-emp-inc,tonsillitis
-18,male,110,Married-AF-spouse,Self-emp-not-inc,ankylosing spondylitis
-43,female,170,Married-AF-spouse,Self-emp-inc,arthritis
-51,male,170,Married-spouse-absent,Local-gov,acute pharyngitis
-53,female,105,Married-spouse-absent,Private,rhinitis
-53,female,250,Separated,gov,headache
-64,male,140,Married-AF-spouse,workclass,diarrhea
-29,male,255,Separated,Federal-gov,crus fracture
-18,male,145,marital-status,Self-emp-not-inc,rhinitis
-46,female,90,Widowed,workclass,burns
-45,male,135,Married-AF-spouse,Private,osteoporosis
-61,male,105,Married-AF-spouse,Local-gov,cough
-26,female,245,Married,gov,primary immunodeficiency disease
-57,male,220,Never-married,Local-gov,arthritis
-40,female,195,alone,Private,fever
-41,female,150,Married-AF-spouse,Local-gov,crus fracture
-58,female,170,alone,Local-gov,osteoporosis
-61,female,220,marital-status,Self-emp-not-inc,drug allergy
-18,female,225,Never-married,Self-emp-inc,fever
-65,female,210,Widowed,Local-gov,tonsillitis
-29,male,295,Married,Self-emp-inc,epidemic b encephalitis
-61,female,220,Married-AF-spouse,Self-emp-not-inc,congenital ear deformity
-48,female,115,Never-married,Self-emp-inc,rhinitis
-23,female,295,Married-spouse-absent,Self-emp-inc,periodontitis
-32,female,275,Widowed,workclass,headache
-19,female,255,Married-AF-spouse,Self-emp-not-inc,cough
-27,male,160,alone,Local-gov,primary immunodeficiency disease
-41,female,215,Widowed,Self-emp-not-inc,osteoporosis
-43,male,230,Widowed,Local-gov,acute pharyngitis
-33,male,195,Married-civ-spouse,Self-emp-inc,neck injury
-55,male,95,Married-AF-spouse,Self-emp-inc,headache
-57,female,165,Married-civ-spouse,Private,headache
-54,female,270,alone,Federal-gov,fibromyalgia
-48,female,120,Divorced,Federal-gov,crus fracture
-36,female,90,alone,Federal-gov,chicken pox
-62,female,140,Separated,Local-gov,myopia
-34,female,145,Separated,Private,congenital ear deformity
-53,male,210,Married-spouse-absent,Private,drug allergy
-45,female,90,Divorced,gov,tonsillitis
-39,female,160,Separated,Self-emp-inc,tonsillitis
-24,female,190,Married-spouse-absent,Private,neck injury
-46,male,230,Married-civ-spouse,Federal-gov,chicken pox
-59,male,170,Divorced,Self-emp-not-inc,neck injury
-26,female,185,Married-AF-spouse,Federal-gov,cough
-54,male,175,Never-married,Self-emp-inc,congenital ear deformity
-51,male,130,alone,Self-emp-not-inc,chicken pox
-38,male,100,alone,Local-gov,chicken pox
-34,male,195,Separated,Private,epidemic b encephalitis
-21,female,185,Married-AF-spouse,workclass,primary immunodeficiency disease
-51,male,295,Married,workclass,periodontitis
-47,male,225,Divorced,Federal-gov,neck injury
-44,male,255,Married-spouse-absent,gov,arthritis
-54,female,130,alone,gov,chilblain
-28,male,265,Widowed,Local-gov,tonsillitis
-25,male,260,Married-AF-spouse,gov,crus fracture
-65,female,285,Married-spouse-absent,Private,congenital ear deformity
-45,male,200,Married-civ-spouse,Private,ankylosing spondylitis
-43,male,160,alone,gov,tonsillitis
-30,male,120,Married-civ-spouse,workclass,acute pharyngitis
-29,male,170,Married-civ-spouse,gov,chilblain
-21,male,145,Married,Self-emp-inc,tonsillitis
-44,male,180,Married-spouse-absent,Local-gov,osteoporosis
-39,male,180,Married-spouse-absent,Local-gov,fever
-29,female,210,marital-status,Self-emp-not-inc,burns
-48,female,110,alone,workclass,chilblain
-61,male,275,Never-married,Federal-gov,chicken pox
-22,female,110,Divorced,Self-emp-not-inc,myopia
-65,male,150,Divorced,gov,burns
-36,female,130,Never-married,Self-emp-inc,diarrhea
-56,male,235,Married,Local-gov,neck injury
-31,male,150,alone,Self-emp-not-inc,chicken pox
-28,male,235,Widowed,Private,myopia
-51,female,140,alone,Self-emp-inc,chilblain
-45,female,270,Widowed,gov,burns
-31,male,255,Widowed,Federal-gov,neck injury
-49,male,160,Widowed,Self-emp-not-inc,diabetes
-20,female,105,marital-status,Self-emp-inc,chilblain
-22,female,120,marital-status,Local-gov,myopia
-52,male,270,marital-status,Self-emp-inc,arthritis
-52,female,270,Divorced,Self-emp-inc,drug allergy
-43,male,235,Married-AF-spouse,Self-emp-not-inc,myopia
-36,male,160,Never-married,Self-emp-not-inc,periodontitis
-52,male,95,Divorced,Federal-gov,acute pharyngitis
-43,female,235,Married,workclass,myopia
-52,male,165,Married-civ-spouse,Self-emp-not-inc,rhinitis
-31,female,180,Divorced,Private,neck injury
-42,female,215,Divorced,gov,myopia
-26,female,215,Married,Self-emp-inc,drug allergy
-57,female,110,alone,Local-gov,chicken pox
-57,male,220,Widowed,Local-gov,diarrhea
-31,male,200,marital-status,Private,crus fracture
-43,male,120,alone,Self-emp-inc,diarrhea
-48,male,215,alone,workclass,fever
-23,female,110,marital-status,Local-gov,myopia
-27,male,140,Widowed,workclass,cough
-48,male,230,Widowed,Local-gov,drug allergy
-42,female,265,alone,gov,chilblain
-27,male,140,Divorced,Federal-gov,burns
-43,female,290,alone,gov,acute pharyngitis
-20,female,280,Separated,Federal-gov,myopia
-40,female,135,Married-AF-spouse,workclass,tonsillitis
-61,female,145,Separated,Private,osteoporosis
-21,male,265,Widowed,Local-gov,fever
-41,male,200,Widowed,workclass,chicken pox
-56,male,230,marital-status,gov,tonsillitis
-42,female,95,Married-civ-spouse,Local-gov,fever
-53,male,175,Married-AF-spouse,Self-emp-not-inc,tonsillitis
-19,male,190,Separated,Self-emp-inc,chilblain
-65,male,205,Separated,Federal-gov,osteoporosis
-62,male,285,Widowed,Self-emp-inc,periodontitis
-30,male,170,marital-status,Self-emp-not-inc,crus fracture
-58,female,195,Married-AF-spouse,workclass,tonsillitis
-58,male,205,Married,workclass,fibromyalgia
-28,female,225,Separated,gov,diarrhea
-29,female,155,Married,Local-gov,arthritis
-24,female,275,alone,workclass,periodontitis
-41,male,260,Married-civ-spouse,gov,acute pharyngitis
-31,female,95,Married,Local-gov,rhinitis
-25,female,90,alone,Local-gov,periodontitis
-21,male,285,Married-AF-spouse,Local-gov,epidemic b encephalitis
-21,female,165,alone,Local-gov,headache
-34,female,220,alone,Federal-gov,burns
-42,male,145,Married-AF-spouse,Private,fever
-26,female,105,Married-spouse-absent,Local-gov,rhinitis
-29,female,250,Divorced,workclass,headache
-19,male,120,marital-status,Self-emp-inc,diabetes
-62,male,145,alone,gov,neck injury
-32,female,140,Married,Self-emp-not-inc,epidemic b encephalitis
-58,female,270,Divorced,Self-emp-not-inc,diarrhea
-20,female,255,Divorced,Local-gov,drug allergy
-35,male,90,Married-spouse-absent,Private,ankylosing spondylitis
-26,male,135,Widowed,Private,osteoporosis
-56,male,140,marital-status,Self-emp-not-inc,osteoporosis
-57,male,95,marital-status,Self-emp-inc,chicken pox
-31,female,100,Married-spouse-absent,Local-gov,chilblain
-44,male,245,Never-married,Federal-gov,myopia
-54,female,240,Never-married,Self-emp-inc,diabetes
-44,male,100,Married,Federal-gov,diarrhea
-22,male,265,Widowed,gov,neck injury
-29,male,175,Separated,Self-emp-not-inc,headache
-63,female,145,Never-married,workclass,myopia
-23,male,295,Never-married,Federal-gov,acute pharyngitis
-32,male,230,Married-spouse-absent,Local-gov,acute pharyngitis
-45,male,150,alone,Self-emp-inc,periodontitis
-57,male,285,Married,Federal-gov,epidemic b encephalitis
-63,female,145,Married-spouse-absent,Self-emp-not-inc,chilblain
-64,male,110,alone,Self-emp-not-inc,headache
-34,male,125,Married-AF-spouse,Self-emp-not-inc,arthritis
-52,male,95,marital-status,Private,periodontitis
-58,male,140,alone,Local-gov,chicken pox
-62,male,235,Never-married,Federal-gov,primary immunodeficiency disease
-41,female,260,Never-married,gov,rhinitis
-49,female,195,Divorced,gov,arthritis
-49,male,125,Never-married,Self-emp-not-inc,tuberculosis
-27,male,260,Married-civ-spouse,workclass,acute pharyngitis
-36,female,155,alone,Self-emp-not-inc,acute pharyngitis
-56,male,145,Divorced,workclass,tonsillitis
-24,female,140,Widowed,Self-emp-inc,tonsillitis
-50,male,145,Married,gov,neck injury
-59,female,120,Married-civ-spouse,Private,arthritis
-58,female,140,alone,Private,osteoporosis
-23,female,150,alone,Local-gov,acute pharyngitis
-39,male,260,Widowed,Federal-gov,chicken pox
-18,female,290,marital-status,Self-emp-inc,chilblain
-23,male,185,marital-status,Private,periodontitis
-32,female,115,alone,Self-emp-not-inc,neck injury
-38,male,270,alone,gov,crus fracture
-43,female,185,Married,gov,osteoporosis
-49,female,165,Widowed,workclass,crus fracture
-48,male,280,Divorced,gov,cough
-65,male,255,alone,Federal-gov,chicken pox
-56,male,185,alone,Federal-gov,neck injury
-18,female,210,Married,Self-emp-not-inc,diarrhea
-37,male,265,Never-married,Federal-gov,tuberculosis
-54,male,225,Married,Self-emp-inc,cough
-21,female,225,Married-spouse-absent,Self-emp-inc,periodontitis
-32,male,265,Separated,workclass,chicken pox
-60,female,195,Separated,gov,fibromyalgia
-55,female,195,Divorced,Self-emp-inc,arthritis
-49,male,210,Married-spouse-absent,workclass,rhinitis
-60,male,290,marital-status,Local-gov,acute pharyngitis
-59,male,170,Widowed,Private,cough
-61,female,110,Married-spouse-absent,Private,primary immunodeficiency disease
-34,male,130,Divorced,gov,congenital ear deformity
-32,male,115,Married-AF-spouse,Local-gov,rhinitis
-57,male,290,marital-status,Private,fever
-43,female,245,Married-AF-spouse,Private,fever
-28,female,95,alone,gov,fibromyalgia
-24,male,265,Married-civ-spouse,Local-gov,tonsillitis
-53,female,120,Never-married,Self-emp-not-inc,primary immunodeficiency disease
-25,male,105,alone,Self-emp-inc,diarrhea
-30,male,95,Married,Federal-gov,primary immunodeficiency disease
-38,male,245,Married,workclass,fever
-47,male,280,Married-AF-spouse,Local-gov,fever
-35,female,130,Married,workclass,cough
-59,female,120,Divorced,Private,diarrhea
-22,female,90,Married-AF-spouse,workclass,periodontitis
-32,male,245,Married-civ-spouse,Local-gov,periodontitis
-20,male,260,Married-civ-spouse,Local-gov,myopia
-47,male,280,alone,Self-emp-not-inc,fibromyalgia
-18,male,190,alone,Federal-gov,headache
-28,female,150,Married-AF-spouse,workclass,diarrhea
-54,female,200,Married-AF-spouse,Federal-gov,periodontitis
-21,male,165,Married-spouse-absent,Self-emp-inc,drug allergy
-48,male,200,alone,Local-gov,primary immunodeficiency disease
-43,female,255,Married-civ-spouse,gov,neck injury
-57,female,155,Married-AF-spouse,workclass,periodontitis
-50,male,190,Separated,Self-emp-inc,neck injury
-44,male,270,alone,gov,fever
-24,male,185,marital-status,workclass,acute pharyngitis
-48,female,90,alone,Private,crus fracture
-32,female,230,Married-AF-spouse,Self-emp-inc,headache
-59,female,170,Divorced,Self-emp-inc,chicken pox
-49,female,205,alone,gov,cough
-38,female,145,alone,workclass,epidemic b encephalitis
-41,female,240,Married-AF-spouse,workclass,tonsillitis
-30,male,105,Never-married,Federal-gov,cough
-48,male,240,Married,workclass,osteoporosis
-47,female,220,Married-civ-spouse,gov,burns
-21,male,290,alone,Self-emp-inc,myopia
-40,male,155,Married-civ-spouse,workclass,diarrhea
-52,female,235,Married-civ-spouse,Private,periodontitis
-23,male,180,Widowed,Federal-gov,osteoporosis
-47,male,155,alone,gov,myopia
-64,female,95,Married-civ-spouse,Local-gov,congenital ear deformity
-38,female,110,alone,Local-gov,crus fracture
-28,female,235,Married-spouse-absent,Private,diarrhea
-28,female,275,Married,workclass,burns
-54,male,240,Never-married,Federal-gov,neck injury
-24,male,120,Married-AF-spouse,Local-gov,headache
-33,female,240,alone,Private,myopia
-24,male,255,Married-spouse-absent,Self-emp-not-inc,neck injury
-49,female,145,Divorced,Local-gov,cough
-26,male,145,Separated,workclass,fever
-25,male,175,alone,workclass,drug allergy
-45,female,165,Widowed,Self-emp-not-inc,cough
-60,male,100,Married-civ-spouse,workclass,myopia
-37,male,160,alone,gov,drug allergy
-48,female,255,Widowed,gov,cough
-27,male,105,Married,workclass,cough
-44,female,200,Married-AF-spouse,Self-emp-inc,rhinitis
-26,female,145,Divorced,Self-emp-not-inc,arthritis
-31,male,135,Widowed,workclass,crus fracture
-53,female,190,alone,Self-emp-not-inc,osteoporosis
-57,male,245,Separated,workclass,acute pharyngitis
-57,female,125,Divorced,Local-gov,neck injury
-35,female,285,Separated,gov,diarrhea
-18,female,165,alone,Private,osteoporosis
-51,female,220,Married,Self-emp-not-inc,headache
-41,male,100,alone,Self-emp-inc,chicken pox
-59,female,185,Married-civ-spouse,Self-emp-not-inc,diarrhea
-26,female,250,marital-status,Private,chilblain
-26,female,130,Married-AF-spouse,Federal-gov,cough
-21,female,225,Separated,gov,headache
-33,male,170,Never-married,workclass,tonsillitis
-50,female,125,Never-married,workclass,tonsillitis
-32,male,190,Widowed,Federal-gov,diabetes
-23,male,100,alone,Local-gov,acute pharyngitis
-22,female,260,Married-AF-spouse,Local-gov,chicken pox
-23,female,125,Married-spouse-absent,Self-emp-inc,fever
-31,male,135,Divorced,workclass,rhinitis
-61,male,215,Never-married,gov,cough
-61,female,90,Married-civ-spouse,Local-gov,neck injury
-41,female,150,Never-married,workclass,drug allergy
-36,female,240,marital-status,gov,cough
-41,male,275,Married-AF-spouse,Self-emp-inc,drug allergy
-61,male,240,alone,workclass,neck injury
-36,male,150,Married,Self-emp-not-inc,fever
-36,male,240,Separated,Federal-gov,chilblain
-58,female,210,Never-married,Self-emp-inc,chicken pox
-37,male,175,Married-spouse-absent,Self-emp-not-inc,diarrhea
-55,female,220,Never-married,Local-gov,arthritis
-21,male,125,Married-spouse-absent,Private,cough
-21,female,280,Never-married,Federal-gov,primary immunodeficiency disease
-64,female,250,Divorced,Self-emp-not-inc,chilblain
-56,female,290,Married-spouse-absent,Self-emp-inc,fever
-62,female,185,Never-married,Federal-gov,arthritis
-51,female,185,Divorced,Private,chicken pox
-60,female,185,Married-civ-spouse,workclass,fever
-55,female,200,Separated,Local-gov,rhinitis
-45,male,140,Married-AF-spouse,gov,drug allergy
-57,female,150,Married-civ-spouse,Federal-gov,diarrhea
-31,male,150,Never-married,Private,rhinitis
-31,female,215,Divorced,Private,neck injury
-29,male,275,Never-married,Self-emp-not-inc,cough
-26,male,225,Married-civ-spouse,Private,chicken pox
-48,female,175,alone,workclass,acute pharyngitis
-29,male,165,Separated,workclass,acute pharyngitis
-19,female,170,Never-married,Self-emp-not-inc,chilblain
-57,female,215,Never-married,Self-emp-not-inc,epidemic b encephalitis
-41,male,190,marital-status,workclass,neck injury
-38,male,275,Never-married,Federal-gov,osteoporosis
-57,female,165,Married-spouse-absent,Self-emp-inc,neck injury
-38,male,230,Divorced,Federal-gov,acute pharyngitis
-45,female,280,alone,gov,tonsillitis
-31,male,110,marital-status,Self-emp-not-inc,diabetes
-60,female,125,Married-spouse-absent,Federal-gov,headache
-50,female,230,Never-married,Local-gov,acute pharyngitis
-35,female,135,marital-status,Private,arthritis
-43,female,275,Married-spouse-absent,Self-emp-not-inc,diabetes
-25,male,270,alone,workclass,acute pharyngitis
-36,male,205,Married-civ-spouse,Federal-gov,cough
-32,female,110,Divorced,workclass,periodontitis
-57,female,270,Married-civ-spouse,gov,headache
-24,female,295,Widowed,Self-emp-not-inc,tonsillitis
-38,male,295,Divorced,workclass,diarrhea
-37,female,160,Divorced,Self-emp-not-inc,epidemic b encephalitis
-65,male,165,Divorced,gov,cough
-65,female,260,Married-AF-spouse,Local-gov,diabetes
-64,male,295,Married,Self-emp-not-inc,headache
-35,male,95,Married,Self-emp-not-inc,periodontitis
-53,female,235,alone,Private,myopia
-41,male,240,alone,gov,cough
-19,male,95,Widowed,Local-gov,epidemic b encephalitis
-36,female,140,Divorced,gov,rhinitis
-23,female,260,Married-civ-spouse,Federal-gov,fever
-57,male,235,Divorced,workclass,acute pharyngitis
-33,female,285,alone,workclass,fibromyalgia
-64,male,165,alone,Private,diarrhea
-23,male,175,alone,Self-emp-inc,fever
-48,male,170,marital-status,gov,myopia
-25,female,220,Married-AF-spouse,Self-emp-inc,cough
-45,male,155,Divorced,Private,tonsillitis
-54,female,280,Married-civ-spouse,Private,chicken pox
-44,male,260,Married-civ-spouse,Private,myopia
-35,female,260,Married-civ-spouse,Local-gov,primary immunodeficiency disease
-53,male,115,Married,gov,primary immunodeficiency disease
-59,female,210,Divorced,Self-emp-inc,fever
-39,male,95,Married-civ-spouse,Federal-gov,arthritis
-40,female,270,Separated,gov,chicken pox
-20,male,140,Separated,Federal-gov,periodontitis
-46,male,255,Married,Self-emp-not-inc,epidemic b encephalitis
-52,female,145,Married-civ-spouse,workclass,cough
-45,female,105,Married-spouse-absent,Federal-gov,fibromyalgia
-47,female,285,Married-civ-spouse,Self-emp-not-inc,drug allergy
-36,female,225,marital-status,Self-emp-not-inc,headache
-37,male,130,alone,Self-emp-inc,rhinitis
-30,female,195,Never-married,Self-emp-inc,chilblain
-42,female,240,Separated,Self-emp-inc,drug allergy
-37,female,275,Married-spouse-absent,Self-emp-not-inc,chicken pox
-51,female,200,Widowed,Local-gov,headache
-47,male,295,Married-AF-spouse,Private,crus fracture
-26,female,195,Married-civ-spouse,Self-emp-inc,periodontitis
-63,female,255,Divorced,workclass,periodontitis
-20,male,190,alone,Local-gov,acute pharyngitis
-43,male,195,Married-civ-spouse,Federal-gov,rhinitis
-25,male,290,Separated,gov,crus fracture
-54,female,215,alone,Self-emp-inc,chilblain
-23,female,255,Married-civ-spouse,Local-gov,tonsillitis
-26,male,140,Divorced,gov,periodontitis
-47,male,110,Separated,Local-gov,leprosy
-48,male,135,Separated,workclass,primary immunodeficiency disease
-25,female,290,alone,Self-emp-not-inc,chilblain
-30,male,95,Separated,Local-gov,drug allergy
-32,female,235,Married,workclass,rhinitis
-54,female,140,Divorced,Self-emp-inc,chilblain
-25,male,260,Widowed,gov,periodontitis
-60,female,175,alone,Self-emp-inc,congenital ear deformity
-62,male,185,Widowed,Self-emp-inc,chilblain
-33,male,175,Separated,Private,cough
-26,female,175,alone,Local-gov,osteoporosis
-36,male,215,Widowed,Private,osteoporosis
-49,male,280,Married-AF-spouse,Federal-gov,neck injury
-54,male,170,Never-married,Self-emp-not-inc,headache
-24,female,230,alone,Self-emp-inc,neck injury
-21,female,190,Married,workclass,fever
-18,female,240,marital-status,Self-emp-inc,chicken pox
-29,male,115,alone,Self-emp-not-inc,cough
-62,female,100,Separated,Private,drug allergy
-42,female,155,alone,Local-gov,drug allergy
-52,female,270,alone,Federal-gov,headache
-58,female,165,Married,Local-gov,diabetes
-40,female,245,marital-status,Federal-gov,tonsillitis
-53,female,285,Separated,Local-gov,fever
-55,male,240,Married-civ-spouse,Private,congenital ear deformity
-32,female,285,Married-civ-spouse,Local-gov,diarrhea
-56,male,235,Divorced,Local-gov,cough
-65,female,190,Married-spouse-absent,Local-gov,acute pharyngitis
-57,female,160,Married-spouse-absent,workclass,myopia
-50,male,180,Never-married,Local-gov,acute pharyngitis
-54,male,140,Widowed,Self-emp-inc,acute pharyngitis
-39,female,180,Divorced,Federal-gov,primary immunodeficiency disease
-38,female,270,Never-married,Self-emp-not-inc,acute pharyngitis
-32,female,95,alone,Federal-gov,acute pharyngitis
-25,male,135,Divorced,gov,fever
-52,female,210,alone,gov,arthritis
-43,male,190,Married-AF-spouse,Private,drug allergy
-27,female,165,alone,workclass,myopia
-28,female,100,Married,Private,headache
-47,female,275,Married-AF-spouse,Self-emp-inc,fever
-49,male,235,marital-status,Federal-gov,periodontitis
-28,female,275,Married-civ-spouse,Self-emp-not-inc,drug allergy
-40,female,205,alone,gov,primary immunodeficiency disease
-35,male,155,alone,Self-emp-inc,chicken pox
-34,female,280,Married,Self-emp-inc,cough
-18,male,215,Widowed,Private,drug allergy
-41,male,170,Never-married,Self-emp-inc,tonsillitis
-55,male,225,alone,gov,fever
-48,female,185,Married-civ-spouse,workclass,rhinitis
-28,male,110,Married-spouse-absent,workclass,rhinitis
-38,male,275,Divorced,Federal-gov,neck injury
-65,male,200,Married-civ-spouse,Local-gov,periodontitis
-61,female,210,Married,Federal-gov,osteoporosis
-20,female,230,Married-AF-spouse,gov,acute pharyngitis
-60,female,105,Married-AF-spouse,Self-emp-not-inc,chilblain
-65,male,280,alone,Self-emp-inc,ankylosing spondylitis
-58,female,170,alone,Federal-gov,osteoporosis
-30,female,215,alone,gov,myopia
-35,female,180,alone,workclass,diarrhea
-61,female,165,Divorced,Self-emp-inc,tonsillitis
-62,male,195,alone,Local-gov,crus fracture
-23,female,205,Divorced,workclass,congenital ear deformity
-27,male,115,Never-married,Local-gov,cough
-26,male,150,Separated,Self-emp-inc,cough
-36,male,215,Married-civ-spouse,Self-emp-inc,periodontitis
-37,female,205,Married-AF-spouse,Private,periodontitis
-51,female,110,alone,gov,osteoporosis
-23,male,225,Widowed,gov,headache
-63,female,265,Married-civ-spouse,workclass,diabetes
-30,male,240,Never-married,gov,neck injury
-49,male,235,Married-AF-spouse,gov,myopia
-30,female,265,Never-married,Private,fibromyalgia
-28,female,220,Married-AF-spouse,Federal-gov,neck injury
-47,male,225,alone,workclass,rhinitis
-52,male,190,alone,Self-emp-not-inc,cough
-18,male,165,Married-spouse-absent,Self-emp-not-inc,acute pharyngitis
-41,female,235,Married-AF-spouse,gov,cough
-25,female,180,Married-AF-spouse,Federal-gov,osteoporosis
-24,female,200,alone,Self-emp-inc,tonsillitis
-26,male,90,Married,Private,drug allergy
-37,female,280,Married-civ-spouse,Self-emp-not-inc,arthritis
-53,male,230,Married-AF-spouse,workclass,osteoporosis
-40,female,150,Married-spouse-absent,gov,osteoporosis
-63,female,285,alone,gov,drug allergy
-42,female,280,alone,Private,myopia
-19,female,245,Never-married,Private,rhinitis
-26,female,95,marital-status,Self-emp-not-inc,ankylosing spondylitis
-44,female,185,alone,Federal-gov,chilblain
-65,female,175,Married-civ-spouse,Federal-gov,myopia
-29,female,110,alone,Federal-gov,neck injury
-60,female,225,alone,Local-gov,chilblain
-53,male,170,Married-AF-spouse,Federal-gov,periodontitis
-38,female,125,marital-status,Federal-gov,acute pharyngitis
-38,female,185,Widowed,gov,crus fracture
-23,male,235,Married-civ-spouse,Private,neck injury
-30,male,280,marital-status,Federal-gov,cough
-64,male,260,Divorced,Self-emp-inc,fibromyalgia
-42,male,240,Never-married,Federal-gov,osteoporosis
-43,female,240,Married-AF-spouse,Self-emp-inc,neck injury
-55,female,290,Married-civ-spouse,Local-gov,epidemic b encephalitis
-57,male,230,alone,Self-emp-inc,drug allergy
-44,female,245,Married-spouse-absent,Self-emp-not-inc,tonsillitis
-33,male,120,Married-civ-spouse,Self-emp-inc,osteoporosis
-25,male,250,Never-married,Self-emp-inc,tonsillitis
-37,female,200,Separated,Federal-gov,diarrhea
-26,male,120,Married-civ-spouse,Federal-gov,cough
-35,male,175,Married-AF-spouse,Federal-gov,acute pharyngitis
-39,male,250,marital-status,gov,neck injury
-50,female,185,Widowed,Local-gov,cough
-59,female,90,Married,Local-gov,diarrhea
-37,female,255,Married-spouse-absent,Self-emp-inc,fever
-23,male,200,marital-status,gov,congenital ear deformity
-48,male,120,Widowed,Local-gov,headache
-21,female,195,marital-status,Self-emp-inc,fever
-29,male,95,Never-married,Self-emp-inc,cough
-55,female,130,Married,Local-gov,periodontitis
-43,male,150,alone,Local-gov,congenital ear deformity
-24,male,270,Divorced,Self-emp-inc,tonsillitis
-56,female,295,alone,Self-emp-not-inc,diarrhea
-64,male,140,Married-AF-spouse,Private,headache
-60,female,255,alone,gov,congenital ear deformity
-48,female,200,alone,Self-emp-inc,crus fracture
-64,female,285,marital-status,workclass,drug allergy
-52,female,115,marital-status,Private,periodontitis
-35,female,240,Married-spouse-absent,Private,epidemic b encephalitis
-35,female,215,Never-married,Private,arthritis
-40,female,185,Married-AF-spouse,Private,burns
-57,male,295,Widowed,workclass,cough
-29,male,225,Never-married,Self-emp-not-inc,rhinitis
-51,female,105,Divorced,Local-gov,osteoporosis
-19,female,210,alone,gov,primary immunodeficiency disease
-49,female,290,Divorced,gov,tonsillitis
-30,female,125,Married-civ-spouse,Self-emp-not-inc,tonsillitis
-58,female,190,Separated,gov,tonsillitis
-21,female,245,marital-status,workclass,neck injury
-57,female,190,alone,gov,tonsillitis
-34,male,215,Widowed,Federal-gov,fibromyalgia
-30,female,120,Married,gov,myopia
-27,female,160,alone,workclass,drug allergy
-38,male,285,Married-AF-spouse,gov,cough
-44,female,110,Married-spouse-absent,Local-gov,osteoporosis
-25,male,205,Widowed,gov,arthritis
-21,male,280,alone,workclass,headache
-64,male,205,marital-status,Self-emp-not-inc,headache
-29,male,150,marital-status,Private,burns
-21,male,220,Separated,Federal-gov,chilblain
-65,male,270,Never-married,workclass,epidemic b encephalitis
-62,male,145,marital-status,gov,chilblain
-46,female,210,Married-AF-spouse,Self-emp-inc,headache
-41,male,180,Divorced,workclass,crus fracture
-22,female,155,Married,workclass,tonsillitis
-26,female,240,Separated,workclass,crus fracture
-24,female,195,alone,Self-emp-inc,chilblain
-65,female,180,alone,gov,diabetes
-43,female,240,Married,gov,ankylosing spondylitis
-30,female,255,Widowed,Local-gov,diarrhea
-45,female,120,Never-married,gov,rhinitis
-42,male,110,alone,Self-emp-not-inc,tonsillitis
-64,female,150,Never-married,gov,primary immunodeficiency disease
-50,male,240,marital-status,Federal-gov,osteoporosis
-19,male,175,Never-married,Federal-gov,chicken pox
-31,male,205,Married-spouse-absent,Self-emp-not-inc,acute pharyngitis
-22,male,240,Married-spouse-absent,workclass,chicken pox
-24,female,180,Married-civ-spouse,Federal-gov,periodontitis
-27,male,135,alone,workclass,acute pharyngitis
-21,female,260,Married-AF-spouse,Self-emp-not-inc,diarrhea
-21,male,160,marital-status,Self-emp-inc,cough
-31,female,230,Married-AF-spouse,Self-emp-not-inc,acute pharyngitis
-21,male,210,Separated,workclass,rhinitis
-18,male,145,Married-civ-spouse,Self-emp-inc,myopia
-43,female,190,Married,workclass,crus fracture
-26,male,230,Married-AF-spouse,Private,cough
-33,male,95,Married-AF-spouse,Local-gov,arthritis
-40,male,120,marital-status,Self-emp-not-inc,epidemic b encephalitis
-53,female,165,Married-civ-spouse,workclass,periodontitis
-64,male,125,alone,gov,periodontitis
-36,male,280,Widowed,Self-emp-not-inc,diarrhea
-34,male,225,Divorced,Self-emp-inc,crus fracture
-60,male,210,Married-civ-spouse,gov,fever
-21,male,290,Married-AF-spouse,workclass,crus fracture
-42,female,230,marital-status,workclass,neck injury
-29,male,195,Separated,Private,periodontitis
-45,male,180,alone,gov,osteoporosis
-22,female,195,Widowed,Private,neck injury
-21,female,205,Married-AF-spouse,Local-gov,drug allergy
-53,male,185,Married-civ-spouse,Private,diarrhea
-30,male,255,Married,Federal-gov,crus fracture
-53,male,155,alone,Private,chilblain
-28,male,200,Separated,Self-emp-inc,osteoporosis
-53,female,270,Married-AF-spouse,Private,leprosy
-56,female,130,Married-spouse-absent,Local-gov,diarrhea
-25,female,205,Married-spouse-absent,Federal-gov,cough
-44,female,210,Separated,gov,acute pharyngitis
-52,female,150,alone,workclass,congenital ear deformity
-58,female,200,Married-spouse-absent,gov,osteoporosis
-22,female,220,Married-AF-spouse,Local-gov,periodontitis
-43,male,110,Married-spouse-absent,Self-emp-not-inc,congenital ear deformity
-40,female,295,Widowed,workclass,drug allergy
-65,male,240,Married,gov,fever
-38,male,205,marital-status,workclass,chilblain
-18,female,180,alone,Self-emp-inc,chicken pox
-35,male,210,marital-status,Self-emp-not-inc,chilblain
-59,female,130,Married,Self-emp-inc,crus fracture
-27,female,205,alone,Self-emp-inc,chicken pox
-26,male,120,Never-married,Federal-gov,fibromyalgia
-31,female,155,Married-AF-spouse,workclass,cough
-31,female,180,Divorced,gov,diarrhea
-41,male,210,alone,Local-gov,tonsillitis
-54,male,280,Married-AF-spouse,Private,crus fracture
-42,male,245,Divorced,Federal-gov,chilblain
-58,female,160,Widowed,Self-emp-not-inc,primary immunodeficiency disease
-63,female,180,Widowed,Self-emp-inc,myopia
-37,female,265,Married-spouse-absent,Self-emp-not-inc,acute pharyngitis
-26,male,155,Widowed,workclass,fibromyalgia
-50,male,220,Separated,workclass,burns
-38,female,105,Never-married,Local-gov,cough
-61,male,245,Divorced,Federal-gov,diarrhea
-33,female,200,marital-status,Self-emp-inc,tonsillitis
-61,female,280,Widowed,Private,myopia
-49,female,135,Separated,Self-emp-inc,headache
-21,male,270,alone,Private,myopia
-60,male,180,alone,Self-emp-not-inc,primary immunodeficiency disease
-54,male,195,alone,Self-emp-inc,fever
-47,male,105,Married-spouse-absent,gov,periodontitis
-18,female,215,Widowed,Local-gov,cough
-50,male,275,Never-married,gov,arthritis
-44,female,280,alone,workclass,acute pharyngitis
-53,female,235,Separated,workclass,congenital ear deformity
-58,male,160,Married-AF-spouse,Federal-gov,ankylosing spondylitis
-27,male,200,Married-civ-spouse,gov,crus fracture
-35,male,250,Never-married,workclass,crus fracture
-39,female,275,Married,Private,crus fracture
-62,female,260,Married-spouse-absent,Federal-gov,arthritis
-26,female,300,marital-status,Self-emp-inc,myopia
-43,female,235,Widowed,Federal-gov,epidemic b encephalitis
-40,male,110,Married-civ-spouse,Federal-gov,cough
-48,female,155,alone,gov,cough
-53,male,145,alone,Self-emp-inc,osteoporosis
-59,male,240,Widowed,Local-gov,headache
-40,male,200,Widowed,workclass,myopia
-42,female,175,marital-status,Local-gov,diabetes
-60,female,120,Married,Private,epidemic b encephalitis
-39,female,210,Married,gov,neck injury
-37,male,260,Divorced,workclass,neck injury
-40,female,135,marital-status,Private,fever
-47,female,90,Married-AF-spouse,Private,diarrhea
-44,female,285,Divorced,Local-gov,diarrhea
-48,female,145,alone,Self-emp-inc,drug allergy
-57,male,95,Married-civ-spouse,gov,leprosy
-25,male,210,alone,gov,myopia
-54,female,280,Widowed,workclass,diabetes
-19,male,280,alone,gov,osteoporosis
-60,male,190,Married-civ-spouse,Private,fibromyalgia
-50,female,175,Married-AF-spouse,Self-emp-inc,crus fracture
-50,male,155,Widowed,Private,tonsillitis
-29,female,105,Divorced,Self-emp-inc,crus fracture
-23,male,95,marital-status,Federal-gov,periodontitis
-61,male,215,alone,Self-emp-inc,osteoporosis
-22,male,90,Married-civ-spouse,Self-emp-not-inc,primary immunodeficiency disease
-59,male,155,Divorced,Federal-gov,chilblain
-18,female,180,alone,gov,periodontitis
-27,male,180,Divorced,Local-gov,epidemic b encephalitis
-61,male,265,Married,gov,crus fracture
-29,female,250,marital-status,Local-gov,headache
-41,female,205,Divorced,Federal-gov,neck injury
-55,male,285,Widowed,Private,congenital ear deformity
-19,female,110,alone,workclass,diarrhea
-53,female,245,alone,Private,chicken pox
-47,male,275,marital-status,Local-gov,neck injury
-31,male,90,alone,Local-gov,ankylosing spondylitis
-22,female,225,Married,Private,rhinitis
-46,female,130,marital-status,Self-emp-inc,diarrhea
-28,male,150,Married,Local-gov,fever
-64,female,185,Married,Private,osteoporosis
-19,male,215,alone,Local-gov,acute pharyngitis
-24,female,110,Married-civ-spouse,gov,congenital ear deformity
-55,female,295,Divorced,gov,myopia
-53,male,200,Married-civ-spouse,Self-emp-inc,myopia
-24,female,185,Widowed,Self-emp-inc,drug allergy
-30,female,255,Divorced,Private,congenital ear deformity
-22,female,160,Never-married,Self-emp-inc,fibromyalgia
-33,female,170,alone,Self-emp-inc,epidemic b encephalitis
-38,female,290,Married-civ-spouse,Private,osteoporosis
-35,male,105,Widowed,Self-emp-inc,headache
-30,female,175,alone,Self-emp-not-inc,burns
-25,female,210,alone,Self-emp-not-inc,tonsillitis
-57,female,230,Separated,Private,leprosy
-31,male,190,Married-AF-spouse,Federal-gov,congenital ear deformity
-23,male,290,alone,Self-emp-not-inc,neck injury
-30,male,125,alone,Self-emp-not-inc,myopia
-33,male,255,Widowed,gov,diarrhea
-38,female,165,Widowed,Self-emp-inc,neck injury
-27,male,240,Divorced,Self-emp-inc,myopia
-51,male,110,alone,Local-gov,ankylosing spondylitis
-39,male,150,Married-civ-spouse,Federal-gov,rhinitis
-32,male,130,Divorced,Federal-gov,drug allergy
-21,female,230,Widowed,Federal-gov,headache
-57,male,155,Widowed,Private,chicken pox
-35,female,245,Widowed,Local-gov,neck injury
-37,female,220,Married,Federal-gov,cough
-44,male,90,Divorced,gov,fibromyalgia
-28,male,110,alone,Local-gov,neck injury
-31,male,215,Married-spouse-absent,Self-emp-inc,osteoporosis
-27,female,140,Separated,Local-gov,primary immunodeficiency disease
-20,male,230,Widowed,gov,drug allergy
-19,male,295,Widowed,gov,crus fracture
-57,female,290,Married-civ-spouse,Self-emp-inc,ankylosing spondylitis
-52,female,205,Separated,Local-gov,drug allergy
-33,male,260,Married-AF-spouse,Self-emp-not-inc,diarrhea
-49,male,295,Married-AF-spouse,Federal-gov,neck injury
-37,female,180,Widowed,Local-gov,epidemic b encephalitis
-38,female,125,Never-married,gov,periodontitis
-40,female,125,alone,Federal-gov,myopia
-56,male,215,marital-status,Self-emp-not-inc,crus fracture
-57,female,195,Never-married,workclass,burns
-57,male,275,Married-civ-spouse,Private,burns
-21,male,295,marital-status,Federal-gov,crus fracture
-42,female,150,Widowed,workclass,ankylosing spondylitis
-64,female,155,Married-civ-spouse,Local-gov,acute pharyngitis
-64,male,195,Married-spouse-absent,Local-gov,acute pharyngitis
-55,male,190,Married-spouse-absent,Federal-gov,fibromyalgia
-44,female,145,Married,Self-emp-inc,chilblain
-21,female,295,Married,Private,osteoporosis
-50,female,200,alone,Self-emp-inc,ankylosing spondylitis
-32,male,200,Separated,gov,epidemic b encephalitis
-24,female,270,Married-civ-spouse,Self-emp-not-inc,rhinitis
-25,female,145,alone,Self-emp-not-inc,rhinitis
-63,female,155,Married-AF-spouse,Self-emp-not-inc,ankylosing spondylitis
-25,male,200,Divorced,Private,diarrhea
-24,female,235,Married,Self-emp-inc,rhinitis
-24,male,160,Separated,Private,fibromyalgia
-19,male,135,Married,Local-gov,malignant lymphoma
-30,female,240,marital-status,Self-emp-not-inc,fever
-18,male,205,Married,workclass,neck injury
-44,female,90,alone,Self-emp-not-inc,epidemic b encephalitis
-50,female,100,marital-status,Local-gov,chicken pox
-30,male,155,alone,Federal-gov,neck injury
-43,male,125,Never-married,Federal-gov,chicken pox
-32,male,255,Married-civ-spouse,workclass,fever
-48,female,295,Married,gov,myopia
-42,female,295,Widowed,Federal-gov,headache
-25,male,295,Separated,Self-emp-not-inc,glioma
-37,female,200,alone,Private,headache
-56,female,190,Never-married,Self-emp-inc,fibromyalgia
-65,female,140,Married-civ-spouse,Federal-gov,ankylosing spondylitis
-58,female,135,Separated,gov,rhinitis
-22,female,145,Married-spouse-absent,gov,rhinitis
-36,male,220,alone,Private,rhinitis
-50,male,295,Married-AF-spouse,Self-emp-not-inc,HIV
-27,female,220,Married-AF-spouse,Local-gov,myopia
-25,female,155,Married,Local-gov,fever
-31,male,265,Married,workclass,cough
-32,male,215,Married-civ-spouse,Local-gov,periodontitis
-29,female,270,Married-civ-spouse,Private,myopia
-55,female,190,Married-civ-spouse,Self-emp-not-inc,chilblain
-62,male,180,Married-AF-spouse,gov,drug allergy
-56,female,125,Widowed,gov,osteoporosis
-54,female,95,alone,Local-gov,diabetes
-24,male,95,alone,gov,diabetes
-49,female,230,alone,Self-emp-not-inc,primary immunodeficiency disease
-34,female,230,Never-married,Self-emp-not-inc,drug allergy
-63,male,160,alone,Self-emp-inc,acute pharyngitis
-33,female,160,alone,Private,tonsillitis
-19,female,210,Married-spouse-absent,Private,diarrhea
-56,male,280,alone,Federal-gov,osteoporosis
-56,male,175,Married-AF-spouse,Local-gov,acute pharyngitis
-21,male,295,Divorced,Local-gov,neck injury
-52,female,285,Married-AF-spouse,Federal-gov,diabetes
-65,male,100,Married-civ-spouse,Self-emp-not-inc,chicken pox
-24,female,120,Married,Private,myopia
-59,male,225,alone,gov,periodontitis
-62,female,170,alone,Private,fibromyalgia
-54,male,235,Married,workclass,acute pharyngitis
-26,male,130,Never-married,Private,cough
-33,male,285,Divorced,Local-gov,neck injury
-54,female,190,alone,Self-emp-inc,rhinitis
-42,female,150,Married-AF-spouse,Self-emp-not-inc,primary immunodeficiency disease
-21,female,95,Married-civ-spouse,workclass,fever
-62,male,95,Married,workclass,diabetes
-64,male,245,Widowed,Federal-gov,acute pharyngitis
-42,male,295,Never-married,Local-gov,epidemic b encephalitis
-37,female,160,alone,Federal-gov,arthritis
-54,female,290,Divorced,Private,drug allergy
-22,female,285,Separated,workclass,osteoporosis
-39,male,170,alone,Self-emp-inc,ankylosing spondylitis
-23,female,270,Married-civ-spouse,Local-gov,myopia
-30,female,120,alone,Self-emp-not-inc,arthritis
-46,male,265,Married-civ-spouse,Self-emp-inc,diarrhea
-58,male,230,Married,Federal-gov,chicken pox
-34,female,295,marital-status,Self-emp-not-inc,drug allergy
-31,male,175,Widowed,Self-emp-not-inc,primary immunodeficiency disease
-43,female,120,Married,gov,acute pharyngitis
-26,female,230,Separated,Self-emp-inc,diabetes
-41,male,275,alone,Self-emp-not-inc,crus fracture
-24,male,90,alone,Self-emp-inc,chicken pox
-20,female,225,Separated,workclass,diabetes
-25,female,135,alone,workclass,periodontitis
-60,female,145,Separated,Self-emp-inc,cough
-23,male,165,marital-status,Self-emp-not-inc,crus fracture
-43,female,165,Widowed,Self-emp-inc,osteoporosis
-57,male,145,alone,gov,rhinitis
-43,female,135,Married-spouse-absent,gov,arthritis
-60,male,240,alone,Local-gov,chicken pox
-58,male,185,Divorced,Local-gov,chilblain
-21,female,115,Divorced,Self-emp-not-inc,neck injury
-35,female,215,Separated,Federal-gov,fibromyalgia
-24,female,90,Married-AF-spouse,gov,crus fracture
-33,female,245,alone,Self-emp-inc,chilblain
-34,male,150,Married-spouse-absent,Self-emp-inc,primary immunodeficiency disease
-19,male,135,Married-spouse-absent,Federal-gov,congenital ear deformity
-65,male,225,Married,Self-emp-not-inc,headache
-55,female,250,alone,Local-gov,drug allergy
-57,female,190,Married-civ-spouse,Self-emp-not-inc,diabetes
-44,male,245,Married-civ-spouse,Local-gov,leprosy
-53,female,210,Widowed,gov,ankylosing spondylitis
-27,male,210,Widowed,Private,chicken pox
-18,female,260,Widowed,Federal-gov,primary immunodeficiency disease
-18,female,205,alone,Self-emp-not-inc,myopia
-61,female,155,Married-AF-spouse,Self-emp-inc,arthritis
-53,female,270,marital-status,Self-emp-inc,epidemic b encephalitis
-51,female,150,Married-spouse-absent,gov,rhinitis
-60,male,225,Separated,gov,diabetes
-50,female,225,Married-civ-spouse,Self-emp-inc,crus fracture
-41,male,150,Married-civ-spouse,Self-emp-inc,fibromyalgia
-61,male,170,Widowed,gov,neck injury
-35,female,245,alone,Private,drug allergy
-49,female,100,Divorced,workclass,osteoporosis
-40,female,210,Married,Self-emp-inc,crus fracture
-23,male,270,Widowed,Private,fibromyalgia
-48,male,235,Never-married,Self-emp-inc,diarrhea
-24,male,165,Married-spouse-absent,Federal-gov,myopia
-38,male,125,Married,Self-emp-not-inc,tonsillitis
-30,male,240,Married-spouse-absent,gov,chicken pox
-33,male,135,marital-status,gov,periodontitis
-25,female,95,Widowed,workclass,burns
-63,female,185,alone,Self-emp-not-inc,arthritis
-30,female,260,Divorced,Federal-gov,chilblain
-31,male,295,Widowed,Self-emp-inc,rhinitis
-47,male,170,alone,Private,chicken pox
-49,male,230,Married-AF-spouse,Federal-gov,chicken pox
-30,male,295,marital-status,Self-emp-not-inc,osteoporosis
-25,male,190,Married-civ-spouse,Self-emp-not-inc,rhinitis
-42,female,190,alone,Federal-gov,neck injury
-24,male,130,Widowed,gov,fibromyalgia
-45,male,245,alone,Self-emp-inc,chicken pox
-21,male,170,Married-spouse-absent,Local-gov,tonsillitis
-55,female,240,Divorced,Federal-gov,drug allergy
-27,male,220,marital-status,Local-gov,headache
-45,female,205,alone,Self-emp-not-inc,primary immunodeficiency disease
-37,male,285,Divorced,Local-gov,osteoporosis
-61,female,280,Married-civ-spouse,Local-gov,myopia
-32,female,235,Separated,workclass,epidemic b encephalitis
-65,female,285,Married,Local-gov,periodontitis
-56,female,255,marital-status,Federal-gov,crus fracture
-35,male,190,Never-married,Federal-gov,headache
-55,female,130,Married-AF-spouse,Self-emp-inc,periodontitis
-51,female,140,Never-married,Self-emp-not-inc,diabetes
-61,male,290,alone,Local-gov,fever
-30,female,170,Married-civ-spouse,Local-gov,periodontitis
-25,male,210,Married,Local-gov,ankylosing spondylitis
-49,male,200,Married-civ-spouse,workclass,chicken pox
-43,male,95,Separated,Federal-gov,chilblain
-52,female,115,alone,Local-gov,acute pharyngitis
-43,male,275,Divorced,Private,acute pharyngitis
-29,male,300,alone,Self-emp-inc,chicken pox
-29,male,295,marital-status,workclass,chilblain
-59,female,110,Never-married,Private,headache
-43,female,225,Married-AF-spouse,Private,cough
-37,female,90,Divorced,Self-emp-inc,osteoporosis
-40,male,260,alone,workclass,crus fracture
-18,male,245,alone,Private,primary immunodeficiency disease
-24,female,110,Married-AF-spouse,Private,primary immunodeficiency disease
-20,male,165,marital-status,workclass,headache
-56,male,290,Married,gov,headache
-19,female,140,alone,Local-gov,chilblain
-39,male,255,Widowed,Self-emp-not-inc,fever
-19,female,255,Separated,workclass,osteoporosis
-58,female,290,Married-civ-spouse,Self-emp-not-inc,headache
-51,male,285,Married-spouse-absent,Federal-gov,chilblain
-35,female,230,alone,Self-emp-not-inc,fever
-42,female,230,Married-spouse-absent,Private,tonsillitis
-27,female,105,Widowed,Self-emp-not-inc,chilblain
-60,female,290,Married-spouse-absent,Local-gov,fever
-63,male,205,marital-status,Local-gov,periodontitis
-52,female,235,Widowed,Self-emp-inc,fibromyalgia
-54,male,230,Never-married,gov,neck injury
-21,female,270,Married-spouse-absent,workclass,drug allergy
-51,male,100,Widowed,gov,arthritis
-22,male,280,alone,Private,osteoporosis
-45,male,255,Married-spouse-absent,Local-gov,cough
-37,male,280,Widowed,workclass,chilblain
-40,female,155,Divorced,workclass,periodontitis
-19,male,200,Married-spouse-absent,Self-emp-not-inc,drug allergy
-34,male,140,Widowed,gov,chilblain
-52,female,185,Married,gov,epidemic b encephalitis
-35,male,95,Separated,workclass,chilblain
-40,female,95,Married-civ-spouse,Private,fever
-60,male,175,Married-spouse-absent,Self-emp-not-inc,headache
-62,female,195,marital-status,Self-emp-inc,ankylosing spondylitis
-25,female,245,Widowed,Federal-gov,burns
-50,male,225,Separated,Local-gov,chilblain
-35,female,275,alone,workclass,chicken pox
-52,female,225,Married-AF-spouse,Federal-gov,chicken pox
-34,female,90,Widowed,Self-emp-inc,congenital ear deformity
-19,female,105,Widowed,workclass,rhinitis
-19,female,255,alone,workclass,fibromyalgia
-55,female,115,alone,Self-emp-not-inc,chicken pox
-58,female,230,Divorced,workclass,congenital ear deformity
-65,female,245,Divorced,workclass,headache
-56,female,215,Separated,Private,drug allergy
-29,female,255,Married-civ-spouse,workclass,periodontitis
-40,male,295,alone,workclass,burns
-49,female,120,alone,Local-gov,periodontitis
-60,female,140,alone,gov,neck injury
-18,female,160,Separated,Local-gov,crus fracture
-42,male,225,alone,Federal-gov,fever
+24,female,260,Separated,workclass,ankylosing spondylitis
+34,male,170,Married-AF-spouse,Private,headache
+32,female,155,Widowed,Self-emp-inc,headache
+38,male,290,alone,workclass,periodontitis
+64,female,95,Divorced,Self-emp-inc,headache
+18,female,90,Married-civ-spouse,workclass,acute pharyngitis
+53,male,195,marital-status,workclass,headache
+52,male,230,Separated,Private,osteoporosis
+62,female,235,alone,Self-emp-not-inc,cough
+56,male,215,Married-AF-spouse,workclass,myopia
+27,male,215,Married,Self-emp-inc,periodontitis
+27,female,110,alone,Self-emp-not-inc,myopia
+53,male,210,Married-AF-spouse,Private,acute pharyngitis
+50,male,250,Separated,Self-emp-not-inc,periodontitis
+60,female,90,Widowed,workclass,fibromyalgia
+29,female,285,Married,Self-emp-inc,drug allergy
+21,female,185,alone,Private,diarrhea
+46,male,255,Married-AF-spouse,gov,diarrhea
+19,female,125,Never-married,Self-emp-not-inc,acute pharyngitis
+30,male,280,Married-AF-spouse,Federal-gov,cough
+23,female,265,Married-civ-spouse,Self-emp-inc,primary immunodeficiency disease
+46,female,190,Married,Private,neck injury
+48,female,90,Married-civ-spouse,Local-gov,osteoporosis
+33,male,165,marital-status,gov,myopia
+30,female,120,Married,Federal-gov,tonsillitis
+55,male,150,alone,gov,diabetes
+54,female,185,Married-AF-spouse,Self-emp-not-inc,tonsillitis
+45,female,205,alone,Self-emp-inc,osteoporosis
+29,female,165,Married,workclass,neck injury
+55,female,200,Married-civ-spouse,Private,rhinitis
+62,male,270,alone,Self-emp-inc,myopia
+30,male,200,Widowed,Private,headache
+28,male,135,Divorced,gov,tonsillitis
+47,female,245,alone,Federal-gov,headache
+55,male,125,Married-civ-spouse,workclass,arthritis
+48,female,295,marital-status,Private,acute pharyngitis
+35,male,190,marital-status,Self-emp-inc,chilblain
+37,male,155,alone,Local-gov,arthritis
+25,male,285,marital-status,Federal-gov,primary immunodeficiency disease
+58,male,100,Separated,Self-emp-not-inc,drug allergy
+32,female,260,Married-AF-spouse,Federal-gov,periodontitis
+54,male,170,Widowed,Private,periodontitis
+40,male,150,Married-spouse-absent,Private,diabetes
+22,female,260,alone,Local-gov,chicken pox
+47,male,255,alone,Federal-gov,periodontitis
+46,female,155,alone,Self-emp-not-inc,diarrhea
+24,male,285,Married-spouse-absent,Private,periodontitis
+50,female,290,marital-status,Self-emp-not-inc,ankylosing spondylitis
+27,female,215,Never-married,gov,chicken pox
+56,male,240,alone,Self-emp-not-inc,myopia
+61,male,105,Separated,Private,myopia
+60,male,120,Widowed,Self-emp-not-inc,arthritis
+45,female,260,Divorced,Local-gov,diarrhea
+64,female,115,alone,workclass,myopia
+52,male,130,Married-spouse-absent,Federal-gov,fever
+59,female,260,alone,gov,chilblain
+59,female,125,Married-AF-spouse,gov,cough
+27,male,190,Married-AF-spouse,gov,malignant lymphoma
+47,male,125,Never-married,workclass,periodontitis
+40,female,265,alone,workclass,headache
+56,male,300,Married-spouse-absent,gov,ankylosing spondylitis
+52,female,235,marital-status,Private,tonsillitis
+40,male,180,Married-AF-spouse,Federal-gov,osteoporosis
+27,male,185,Married-AF-spouse,gov,neck injury
+51,male,300,Married,workclass,ankylosing spondylitis
+37,male,205,marital-status,Federal-gov,acute pharyngitis
+61,female,135,alone,Local-gov,fever
+39,female,230,Divorced,Local-gov,crus fracture
+18,female,245,Divorced,Private,burns
+45,female,275,Married-AF-spouse,Local-gov,myopia
+37,female,240,Widowed,Federal-gov,neck injury
+47,female,195,alone,Federal-gov,myopia
+58,male,120,marital-status,Self-emp-inc,cough
+57,male,270,alone,Self-emp-inc,crus fracture
+18,male,175,marital-status,Federal-gov,acute pharyngitis
+47,female,275,Widowed,Local-gov,fibromyalgia
+58,female,205,Never-married,Self-emp-inc,chicken pox
+25,female,275,Married-civ-spouse,Self-emp-inc,fever
+21,female,295,alone,Federal-gov,myopia
+21,male,90,alone,Private,myopia
+48,female,175,alone,gov,periodontitis
+42,male,145,alone,Federal-gov,crus fracture
+65,male,230,Divorced,Self-emp-not-inc,osteoporosis
+39,female,165,Married-spouse-absent,Local-gov,cough
+62,female,260,Never-married,Self-emp-not-inc,chicken pox
+19,female,200,Widowed,Local-gov,burns
+65,male,90,Married-spouse-absent,Local-gov,rhinitis
+46,male,150,Widowed,Self-emp-not-inc,drug allergy
+36,female,160,Divorced,Self-emp-not-inc,tonsillitis
+25,female,230,Married-civ-spouse,workclass,rhinitis
+46,female,125,Separated,gov,diarrhea
+24,female,270,Never-married,Federal-gov,cough
+36,male,115,Married,workclass,drug allergy
+33,male,120,Widowed,Self-emp-inc,arthritis
+44,male,245,Never-married,gov,congenital ear deformity
+55,female,265,Married,Private,myopia
+26,female,90,alone,Self-emp-inc,crus fracture
+44,female,115,Married-AF-spouse,gov,arthritis
+64,female,165,Married-AF-spouse,workclass,fever
+33,male,155,Separated,Self-emp-not-inc,headache
+56,female,195,Never-married,gov,chilblain
+49,female,205,Married,Local-gov,crus fracture
+59,female,230,Married-civ-spouse,Self-emp-not-inc,diabetes
+53,male,265,alone,Private,primary immunodeficiency disease
+23,female,290,alone,Local-gov,fibromyalgia
+44,female,235,Married-spouse-absent,gov,myopia
+47,female,180,Married,Self-emp-inc,myopia
+43,male,290,alone,Federal-gov,tonsillitis
+29,female,250,alone,Federal-gov,chilblain
+49,female,180,Separated,gov,acute pharyngitis
+31,female,160,Married-AF-spouse,gov,arthritis
+38,male,115,marital-status,Local-gov,diarrhea
+26,female,215,Married,Self-emp-not-inc,chicken pox
+55,female,110,marital-status,Local-gov,crus fracture
+27,female,100,Widowed,gov,cough
+47,female,235,Widowed,workclass,fever
+40,male,125,Widowed,Self-emp-not-inc,diabetes
+58,male,170,Married,workclass,drug allergy
+64,female,275,alone,Self-emp-inc,fever
+62,male,215,Married-civ-spouse,gov,burns
+57,male,205,Never-married,Private,tonsillitis
+65,male,125,Separated,Private,periodontitis
+24,male,205,Widowed,workclass,primary immunodeficiency disease
+51,male,180,marital-status,Local-gov,primary immunodeficiency disease
+28,male,115,Never-married,Local-gov,rhinitis
+28,female,215,Separated,Self-emp-not-inc,HIV
+47,female,165,Never-married,gov,myopia
+41,female,240,Widowed,Federal-gov,chilblain
+54,female,250,Widowed,Federal-gov,periodontitis
+38,male,275,marital-status,workclass,acute pharyngitis
+39,male,240,alone,Self-emp-inc,epidemic b encephalitis
+55,male,165,Divorced,gov,osteoporosis
+57,male,140,Widowed,Private,periodontitis
+46,male,125,Divorced,Self-emp-not-inc,arthritis
+64,male,185,Separated,Local-gov,chicken pox
+53,female,125,Married-spouse-absent,Private,rhinitis
+48,male,155,Married-civ-spouse,workclass,cough
+53,male,240,marital-status,Self-emp-inc,drug allergy
+20,female,120,marital-status,Private,headache
+18,male,215,Separated,Federal-gov,headache
+25,male,205,Married-AF-spouse,Local-gov,burns
+62,male,195,Married-spouse-absent,Self-emp-not-inc,epidemic b encephalitis
+39,male,205,Widowed,workclass,periodontitis
+33,male,110,Married-AF-spouse,Self-emp-inc,myopia
+51,male,185,Married-AF-spouse,Private,rhinitis
+24,female,115,Married-civ-spouse,Federal-gov,rhinitis
+62,male,110,Married-AF-spouse,workclass,fever
+56,male,215,Married-AF-spouse,Private,arthritis
+64,female,180,Married,Self-emp-inc,headache
+18,male,280,Married,Federal-gov,fever
+35,male,100,Married,Local-gov,neck injury
+61,female,220,alone,Local-gov,diarrhea
+43,male,120,Married-AF-spouse,Local-gov,neck injury
+49,male,130,Separated,Private,chicken pox
+52,female,245,Separated,Federal-gov,ankylosing spondylitis
+43,male,195,Married-civ-spouse,Self-emp-inc,chilblain
+50,female,90,Married,Self-emp-inc,arthritis
+38,female,110,Married-AF-spouse,Private,osteoporosis
+61,male,255,alone,Self-emp-inc,chicken pox
+49,male,145,Married,Self-emp-not-inc,headache
+34,female,275,Married-spouse-absent,Private,diarrhea
+38,female,295,Widowed,workclass,drug allergy
+25,female,215,marital-status,gov,tonsillitis
+40,male,175,Married,gov,fibromyalgia
+57,male,235,Married-civ-spouse,gov,drug allergy
+42,female,260,Separated,Private,rhinitis
+46,male,175,alone,workclass,acute pharyngitis
+51,female,185,Widowed,Local-gov,osteoporosis
+48,female,205,Never-married,Self-emp-inc,myopia
+63,female,250,Married-civ-spouse,gov,myopia
+19,male,245,alone,gov,tonsillitis
+38,male,190,alone,Federal-gov,osteoporosis
+37,male,90,marital-status,Self-emp-not-inc,drug allergy
+56,male,245,Divorced,workclass,myopia
+49,female,90,Married-spouse-absent,workclass,drug allergy
+60,female,155,marital-status,gov,tonsillitis
+56,male,240,Married-spouse-absent,Self-emp-inc,diabetes
+55,male,265,Married-spouse-absent,Local-gov,chilblain
+20,male,245,Married,Self-emp-not-inc,cough
+47,male,290,alone,workclass,ankylosing spondylitis
+36,male,235,Married-AF-spouse,Self-emp-not-inc,arthritis
+55,female,175,Separated,Federal-gov,diabetes
+42,female,190,Never-married,workclass,neck injury
+39,male,270,Married-AF-spouse,Self-emp-inc,congenital ear deformity
+26,male,175,Divorced,Local-gov,rhinitis
+62,male,170,marital-status,Federal-gov,primary immunodeficiency disease
+24,male,180,Married-spouse-absent,gov,fever
+55,male,110,Separated,Local-gov,drug allergy
+65,female,210,Married-spouse-absent,Self-emp-inc,ankylosing spondylitis
+51,male,120,Married-AF-spouse,Self-emp-inc,diarrhea
+43,male,270,alone,Self-emp-not-inc,cough
+42,male,245,Separated,gov,myopia
+18,male,160,Widowed,Self-emp-not-inc,drug allergy
+36,male,130,Married,Federal-gov,periodontitis
+28,male,155,Widowed,gov,drug allergy
+41,female,225,Married-spouse-absent,workclass,chicken pox
+33,female,270,Never-married,Federal-gov,rhinitis
+25,male,160,marital-status,Local-gov,fever
+21,male,255,marital-status,Self-emp-not-inc,leprosy
+46,female,185,alone,Federal-gov,chilblain
+19,female,255,Widowed,Private,headache
+30,male,175,alone,Federal-gov,primary immunodeficiency disease
+31,female,105,marital-status,Self-emp-not-inc,cough
+25,male,110,Separated,gov,crus fracture
+34,female,195,Married-AF-spouse,Federal-gov,drug allergy
+19,female,260,Separated,Self-emp-not-inc,chilblain
+51,female,130,marital-status,workclass,myopia
+29,female,135,Never-married,Self-emp-not-inc,chilblain
+46,male,110,Married-spouse-absent,Self-emp-not-inc,cough
+21,female,225,Widowed,gov,burns
+25,female,145,Married-spouse-absent,Local-gov,myopia
+47,female,130,alone,Federal-gov,drug allergy
+40,female,175,Separated,gov,chicken pox
+31,female,155,marital-status,Federal-gov,chicken pox
+28,female,250,Never-married,Federal-gov,diarrhea
+62,female,235,Never-married,Federal-gov,periodontitis
+43,female,255,Married-spouse-absent,Federal-gov,headache
+50,female,135,Married-AF-spouse,Local-gov,crus fracture
+19,male,265,Divorced,Self-emp-not-inc,crus fracture
+39,male,90,Separated,workclass,drug allergy
+59,female,260,alone,gov,fibromyalgia
+35,female,235,alone,Local-gov,diarrhea
+47,female,255,alone,Self-emp-inc,rhinitis
+41,female,180,Separated,Local-gov,myopia
+18,male,265,alone,gov,rhinitis
+29,female,180,Separated,Federal-gov,drug allergy
+46,female,255,marital-status,Local-gov,crus fracture
+40,male,245,Married-civ-spouse,Local-gov,tuberculosis
+33,female,230,Widowed,gov,drug allergy
+40,male,180,Separated,Local-gov,osteoporosis
+55,female,120,Never-married,Private,neck injury
+33,female,90,alone,workclass,primary immunodeficiency disease
+24,male,125,alone,gov,drug allergy
+49,female,150,Married-spouse-absent,Self-emp-inc,cough
+20,male,225,Married-AF-spouse,gov,fever
+20,male,295,Married-spouse-absent,gov,neck injury
+59,male,270,Married-civ-spouse,Self-emp-inc,periodontitis
+29,female,275,alone,Self-emp-inc,osteoporosis
+34,female,230,marital-status,workclass,rhinitis
+30,female,185,Never-married,workclass,osteoporosis
+40,female,190,Never-married,gov,osteoporosis
+51,male,210,Married-AF-spouse,gov,osteoporosis
+46,male,265,Married-AF-spouse,Local-gov,drug allergy
+41,male,270,alone,Self-emp-not-inc,tonsillitis
+61,male,125,Never-married,Self-emp-inc,myopia
+44,female,90,Separated,Self-emp-inc,cough
+37,male,125,Separated,Self-emp-not-inc,neck injury
+42,male,270,alone,Private,diarrhea
+53,female,135,Married-spouse-absent,Private,rhinitis
+47,male,170,Widowed,Self-emp-inc,fever
+60,female,190,alone,Federal-gov,congenital ear deformity
+60,female,290,Never-married,workclass,tonsillitis
+49,female,135,alone,Local-gov,acute pharyngitis
+22,female,100,marital-status,Federal-gov,myopia
+34,female,130,alone,Local-gov,chilblain
+50,female,140,marital-status,workclass,acute pharyngitis
+44,female,235,alone,Private,acute pharyngitis
+61,male,235,Married-civ-spouse,workclass,neck injury
+51,female,220,alone,Self-emp-inc,chilblain
+25,female,135,Never-married,workclass,diabetes
+31,male,125,Married-civ-spouse,Local-gov,periodontitis
+41,female,200,marital-status,gov,arthritis
+19,male,245,Separated,Self-emp-inc,neck injury
+24,female,185,Married-civ-spouse,Self-emp-inc,rhinitis
+42,male,160,Married-AF-spouse,gov,crus fracture
+43,male,135,Married,gov,malignant lymphoma
+18,female,245,Widowed,Federal-gov,rhinitis
+57,male,270,marital-status,Federal-gov,crus fracture
+34,female,215,marital-status,Local-gov,glioma
+24,male,145,Married-AF-spouse,Federal-gov,neck injury
+19,female,175,Married-AF-spouse,Self-emp-inc,drug allergy
+44,male,290,marital-status,Local-gov,fibromyalgia
+64,male,95,Divorced,Self-emp-not-inc,headache
+23,female,215,alone,Federal-gov,crus fracture
+56,male,110,Widowed,Self-emp-inc,ankylosing spondylitis
+61,male,115,Divorced,Local-gov,drug allergy
+59,male,215,Married-civ-spouse,Local-gov,drug allergy
+20,female,135,Married,Private,cough
+25,female,110,Married,Local-gov,arthritis
+43,male,225,marital-status,Self-emp-inc,myopia
+47,female,215,marital-status,gov,fever
+53,male,225,Married-civ-spouse,Self-emp-not-inc,fibromyalgia
+32,male,145,alone,Self-emp-not-inc,neck injury
+63,male,260,Married-AF-spouse,workclass,crus fracture
+59,male,90,Separated,Local-gov,rhinitis
+42,female,255,Married-civ-spouse,workclass,neck injury
+40,male,130,Never-married,Local-gov,acute pharyngitis
+49,female,170,marital-status,Private,chilblain
+37,female,300,Separated,Self-emp-inc,arthritis
+23,female,245,Married-civ-spouse,Self-emp-not-inc,congenital ear deformity
+55,female,285,Married,Local-gov,myopia
+53,male,120,Divorced,Private,cough
+58,male,250,Widowed,Local-gov,periodontitis
+38,female,115,Married-civ-spouse,Federal-gov,fibromyalgia
+51,female,120,Widowed,Self-emp-not-inc,headache
+33,female,205,Widowed,Self-emp-inc,chicken pox
+34,female,290,Separated,workclass,acute pharyngitis
+51,female,140,Never-married,Federal-gov,fever
+26,male,175,Never-married,gov,tonsillitis
+54,male,105,alone,workclass,headache
+34,male,205,Never-married,Federal-gov,diabetes
+45,female,150,Separated,Federal-gov,primary immunodeficiency disease
+48,female,195,Married-AF-spouse,Private,osteoporosis
+31,female,165,alone,Local-gov,cough
+35,male,150,Never-married,Self-emp-inc,acute pharyngitis
+21,male,170,Married,Local-gov,chilblain
+55,female,175,Married-AF-spouse,Self-emp-inc,diarrhea
+60,female,200,Married-civ-spouse,Self-emp-inc,fever
+23,female,190,Married-spouse-absent,gov,glioma
+33,male,270,marital-status,Self-emp-inc,fever
+25,male,135,Separated,gov,arthritis
+45,female,200,alone,gov,rhinitis
+30,female,285,Widowed,Local-gov,osteoporosis
+57,female,285,Separated,workclass,chicken pox
+46,male,235,Separated,workclass,periodontitis
+54,male,260,Married,gov,rhinitis
+50,female,245,alone,workclass,burns
+37,male,295,Married-civ-spouse,gov,chilblain
+63,male,105,Separated,Self-emp-not-inc,tonsillitis
+32,male,165,marital-status,Self-emp-inc,neck injury
+42,male,225,Widowed,Local-gov,drug allergy
+63,female,115,alone,Federal-gov,arthritis
+51,female,260,Divorced,workclass,burns
+35,male,150,alone,Federal-gov,periodontitis
+53,male,185,Married,Self-emp-not-inc,arthritis
+23,female,240,Separated,Self-emp-inc,neck injury
+23,female,100,alone,Federal-gov,osteoporosis
+48,male,170,alone,Self-emp-inc,myopia
+40,female,245,Never-married,workclass,ankylosing spondylitis
+40,female,170,Married-AF-spouse,Federal-gov,osteoporosis
+58,male,220,marital-status,gov,osteoporosis
+49,male,195,Separated,Local-gov,primary immunodeficiency disease
+38,female,180,alone,workclass,primary immunodeficiency disease
+39,female,140,marital-status,Local-gov,diabetes
+29,female,155,Married-spouse-absent,Self-emp-inc,diarrhea
+33,male,170,Divorced,Private,rhinitis
+65,female,275,alone,workclass,epidemic b encephalitis
+30,male,135,Separated,Self-emp-inc,cough
+48,female,140,Married-civ-spouse,Local-gov,myopia
+20,male,285,Widowed,Local-gov,fibromyalgia
+38,male,135,marital-status,Private,acute pharyngitis
+36,male,295,Married,Self-emp-inc,fibromyalgia
+58,female,155,marital-status,Self-emp-not-inc,headache
+23,female,90,alone,Federal-gov,chilblain
+60,female,235,Married-AF-spouse,Self-emp-not-inc,periodontitis
+32,male,100,alone,Local-gov,drug allergy
+24,male,110,Married-spouse-absent,Self-emp-inc,cough
+35,male,210,Married-spouse-absent,Private,fibromyalgia
+46,male,105,Married-AF-spouse,Self-emp-not-inc,diarrhea
+26,male,105,Never-married,workclass,osteoporosis
+65,female,150,Married-AF-spouse,Federal-gov,congenital ear deformity
+44,male,125,Married-AF-spouse,Federal-gov,fever
+27,female,125,Never-married,workclass,tonsillitis
+18,male,215,Widowed,workclass,congenital ear deformity
+56,male,140,Divorced,workclass,ankylosing spondylitis
+50,male,95,Separated,gov,tonsillitis
+38,male,205,alone,Self-emp-not-inc,headache
+45,male,195,Widowed,Local-gov,osteoporosis
+33,male,125,Married-civ-spouse,Self-emp-inc,neck injury
+54,female,185,Widowed,workclass,fever
+33,female,265,Married-civ-spouse,Local-gov,cough
+55,male,95,Divorced,workclass,chicken pox
+58,female,170,Divorced,workclass,diabetes
+23,female,285,Separated,Self-emp-inc,diarrhea
+33,male,190,Married-spouse-absent,Self-emp-inc,tonsillitis
+48,male,245,marital-status,gov,acute pharyngitis
+22,female,95,Married-AF-spouse,Self-emp-not-inc,chicken pox
+27,male,120,alone,Self-emp-inc,acute pharyngitis
+44,male,275,Divorced,workclass,tonsillitis
+35,female,90,Married-AF-spouse,Self-emp-inc,drug allergy
+60,male,235,alone,Federal-gov,drug allergy
+34,female,225,alone,Self-emp-inc,neck injury
+43,female,230,Married-AF-spouse,Self-emp-not-inc,crus fracture
+27,male,280,Widowed,Private,chicken pox
+27,male,135,marital-status,gov,congenital ear deformity
+37,male,255,Divorced,Private,fever
+62,female,290,Divorced,workclass,drug allergy
+19,female,220,Married-AF-spouse,gov,drug allergy
+44,female,195,Married-spouse-absent,Federal-gov,chicken pox
+25,male,255,marital-status,Self-emp-inc,osteoporosis
+42,male,150,Married-spouse-absent,gov,fever
+62,male,115,Separated,gov,periodontitis
+18,female,175,alone,Private,cough
+55,male,185,Separated,Self-emp-inc,tonsillitis
+27,female,295,alone,Federal-gov,neck injury
+61,male,125,Married-spouse-absent,Federal-gov,crus fracture
+23,female,255,Separated,Self-emp-inc,drug allergy
+42,male,250,alone,Federal-gov,epidemic b encephalitis
+36,female,255,Married-spouse-absent,gov,cough
+19,female,175,Never-married,Federal-gov,burns
+30,female,150,Married,Self-emp-not-inc,crus fracture
+28,male,240,marital-status,gov,arthritis
+63,male,145,alone,Self-emp-inc,drug allergy
+40,female,270,Widowed,workclass,chicken pox
+34,male,220,Married-civ-spouse,Self-emp-inc,crus fracture
+47,male,90,Married-AF-spouse,Private,congenital ear deformity
+43,male,120,Married-spouse-absent,Local-gov,tonsillitis
+20,female,160,Never-married,Federal-gov,fever
+45,female,210,Widowed,Federal-gov,tonsillitis
+60,female,255,Married-AF-spouse,Federal-gov,osteoporosis
+42,male,215,Divorced,Self-emp-not-inc,neck injury
+44,male,185,alone,workclass,acute pharyngitis
+32,female,255,alone,Federal-gov,periodontitis
+59,male,295,Married,Private,rhinitis
+33,female,255,Widowed,Self-emp-not-inc,diarrhea
+47,female,135,Divorced,Local-gov,periodontitis
+27,male,290,Married-spouse-absent,gov,tonsillitis
+30,male,260,Separated,Federal-gov,headache
+49,male,170,Married,gov,myopia
+42,female,190,Never-married,Self-emp-inc,chilblain
+64,female,170,alone,Private,diarrhea
+22,male,165,Separated,Self-emp-not-inc,fibromyalgia
+47,male,160,marital-status,Self-emp-inc,headache
+49,female,260,Separated,Local-gov,chilblain
+59,male,200,Married-AF-spouse,workclass,arthritis
+58,female,210,Separated,gov,acute pharyngitis
+56,male,195,marital-status,Private,chilblain
+62,male,120,Divorced,gov,periodontitis
+43,male,195,marital-status,Local-gov,headache
+21,female,280,Married,Self-emp-not-inc,epidemic b encephalitis
+38,female,115,Married-civ-spouse,gov,chicken pox
+37,female,280,Married-civ-spouse,Self-emp-inc,chicken pox
+31,male,205,marital-status,gov,fever
+18,male,145,Married-spouse-absent,Federal-gov,drug allergy
+47,male,165,alone,Private,chilblain
+29,female,260,Married-spouse-absent,Federal-gov,chicken pox
+28,female,285,marital-status,Federal-gov,acute pharyngitis
+29,female,105,Married,Private,headache
+22,male,240,alone,Self-emp-inc,diarrhea
+35,female,210,Married-civ-spouse,Local-gov,cough
+56,female,165,Widowed,workclass,osteoporosis
+42,female,175,Widowed,gov,tonsillitis
+40,male,200,Married-AF-spouse,Local-gov,diarrhea
+49,female,285,Married,Self-emp-not-inc,congenital ear deformity
+51,female,200,Married-spouse-absent,Self-emp-inc,diarrhea
+36,male,95,alone,Self-emp-not-inc,osteoporosis
+43,female,130,Separated,gov,periodontitis
+45,female,275,Widowed,Federal-gov,ankylosing spondylitis
+60,female,215,Divorced,Local-gov,chilblain
+19,female,165,Married,gov,acute pharyngitis
+25,female,90,Married-spouse-absent,Federal-gov,cough
+26,female,225,Married,workclass,neck injury
+25,male,280,Never-married,Self-emp-inc,headache
+20,male,135,alone,Self-emp-inc,drug allergy
+18,female,210,alone,workclass,neck injury
+41,female,205,marital-status,gov,rhinitis
+35,female,265,Married-spouse-absent,Private,fever
+53,female,280,Married-AF-spouse,gov,fever
+43,male,125,marital-status,workclass,burns
+20,female,130,Married-spouse-absent,Self-emp-not-inc,primary immunodeficiency disease
+65,female,170,Widowed,gov,cough
+28,female,130,Widowed,gov,myopia
+58,male,220,Married,gov,neck injury
+46,male,205,Never-married,Self-emp-inc,diarrhea
+26,female,300,alone,Self-emp-inc,chicken pox
+25,female,250,Separated,Local-gov,congenital ear deformity
+65,female,135,Never-married,Self-emp-inc,acute pharyngitis
+32,male,100,alone,Self-emp-inc,epidemic b encephalitis
+53,female,105,Divorced,Self-emp-inc,chilblain
+40,female,105,Married,Private,tonsillitis
+28,male,185,Married,Local-gov,cough
+37,male,280,Never-married,workclass,diarrhea
+43,female,185,Divorced,gov,neck injury
+24,female,200,Married,gov,crus fracture
+50,female,130,Separated,workclass,periodontitis
+43,male,255,Married-civ-spouse,Local-gov,tonsillitis
+44,male,125,Never-married,workclass,headache
+64,female,95,marital-status,Self-emp-not-inc,acute pharyngitis
+31,male,255,Separated,Self-emp-not-inc,neck injury
+62,male,245,alone,Private,rhinitis
+49,male,90,Widowed,gov,tonsillitis
+56,female,100,alone,Self-emp-inc,chicken pox
+60,male,205,Separated,Self-emp-not-inc,cough
+38,female,120,Married-spouse-absent,Local-gov,chilblain
+44,female,215,Married-civ-spouse,Federal-gov,crus fracture
+41,female,285,Married-civ-spouse,Self-emp-inc,neck injury
+63,male,295,Separated,Self-emp-inc,drug allergy
+64,female,115,Separated,Self-emp-inc,neck injury
+44,male,105,Married,Local-gov,diarrhea
+29,male,180,Separated,Self-emp-not-inc,cough
+41,female,265,alone,workclass,primary immunodeficiency disease
+46,female,180,Married,gov,neck injury
+65,female,290,Married-AF-spouse,workclass,fever
+33,male,230,Divorced,Private,chicken pox
+27,male,195,Separated,workclass,rhinitis
+24,female,175,Widowed,Self-emp-inc,neck injury
+25,female,110,Divorced,Local-gov,chicken pox
+36,male,190,Married-AF-spouse,gov,neck injury
+33,male,185,alone,gov,headache
+19,male,280,marital-status,workclass,chilblain
+56,male,100,Married-AF-spouse,Federal-gov,fever
+44,female,250,alone,Self-emp-not-inc,crus fracture
+45,male,130,Married-spouse-absent,Local-gov,fibromyalgia
+62,female,120,Separated,Federal-gov,arthritis
+60,male,110,Divorced,workclass,chicken pox
+46,male,285,Married,Private,diarrhea
+63,female,230,alone,Local-gov,fever
+27,female,240,Separated,gov,arthritis
+34,male,110,Separated,workclass,periodontitis
+53,female,120,Widowed,workclass,osteoporosis
+64,female,125,Married-civ-spouse,Federal-gov,tonsillitis
+42,male,245,Married-civ-spouse,Self-emp-inc,chilblain
+50,male,155,Never-married,workclass,drug allergy
+25,female,260,Married-spouse-absent,Federal-gov,arthritis
+18,female,135,Never-married,workclass,chicken pox
+31,male,185,Married-civ-spouse,Private,rhinitis
+20,male,280,Married-civ-spouse,Federal-gov,rhinitis
+61,male,230,alone,Federal-gov,headache
+51,male,285,Married,Self-emp-not-inc,chicken pox
+46,male,265,Separated,Local-gov,headache
+28,male,210,alone,Self-emp-inc,epidemic b encephalitis
+63,male,245,Divorced,Self-emp-not-inc,myopia
+54,male,180,marital-status,gov,crus fracture
+51,male,175,marital-status,Self-emp-inc,crus fracture
+35,male,185,Separated,gov,crus fracture
+24,female,235,Married-AF-spouse,Private,neck injury
+39,female,220,alone,Self-emp-inc,periodontitis
+51,male,280,Widowed,workclass,chilblain
+64,female,140,Married-AF-spouse,Self-emp-inc,osteoporosis
+59,female,255,Married-spouse-absent,Self-emp-inc,drug allergy
+63,female,230,Married-spouse-absent,Self-emp-not-inc,epidemic b encephalitis
+19,male,180,alone,Self-emp-inc,chicken pox
+29,female,255,alone,Self-emp-not-inc,headache
+60,female,115,alone,Local-gov,chicken pox
+40,male,245,Married-spouse-absent,Federal-gov,drug allergy
+37,female,145,Married-civ-spouse,Self-emp-not-inc,rhinitis
+59,male,115,Separated,gov,chicken pox
+22,female,225,alone,Self-emp-not-inc,epidemic b encephalitis
+24,female,285,alone,Self-emp-not-inc,diarrhea
+36,male,150,Married,gov,tonsillitis
+62,female,125,Widowed,Local-gov,rhinitis
+42,male,190,Married-AF-spouse,workclass,neck injury
+46,female,160,Married-spouse-absent,Self-emp-inc,osteoporosis
+43,male,105,Separated,Local-gov,crus fracture
+62,male,245,Married-spouse-absent,Federal-gov,diarrhea
+26,female,175,Divorced,Private,periodontitis
+56,male,280,Separated,Private,chilblain
+47,male,190,Married-spouse-absent,Federal-gov,chicken pox
+34,female,130,Separated,Private,diarrhea
+61,male,225,marital-status,Self-emp-inc,acute pharyngitis
+40,male,270,Married-spouse-absent,Self-emp-inc,diarrhea
+40,female,235,Never-married,Federal-gov,cough
+26,male,190,Married-spouse-absent,workclass,periodontitis
+61,male,250,Divorced,Self-emp-not-inc,crus fracture
+60,female,290,Married-spouse-absent,Self-emp-inc,headache
+23,male,250,Married,Federal-gov,fibromyalgia
+47,female,135,Married,Federal-gov,chilblain
+44,male,210,marital-status,Private,tonsillitis
+47,male,235,marital-status,Self-emp-not-inc,periodontitis
+34,male,195,Married-civ-spouse,Self-emp-inc,burns
+37,male,240,Separated,Local-gov,glioma
+56,male,140,Married-spouse-absent,Self-emp-inc,crus fracture
+23,female,135,marital-status,Federal-gov,rhinitis
+23,female,95,Widowed,gov,tonsillitis
+28,male,130,Divorced,gov,tonsillitis
+55,male,125,alone,workclass,burns
+56,male,180,Separated,gov,acute pharyngitis
+42,female,140,Divorced,gov,chicken pox
+39,female,170,marital-status,Federal-gov,fever
+52,male,285,Never-married,Private,tonsillitis
+28,female,295,Married,Federal-gov,malignant lymphoma
+35,male,100,Married-AF-spouse,Self-emp-inc,osteoporosis
+65,male,275,alone,Self-emp-not-inc,chilblain
+57,female,115,Widowed,Self-emp-not-inc,drug allergy
+20,female,280,alone,Self-emp-inc,rhinitis
+44,female,115,Never-married,gov,fever
+55,female,185,alone,Local-gov,arthritis
+56,female,160,Widowed,Private,headache
+47,female,245,Married,workclass,drug allergy
+58,female,270,Married-civ-spouse,Self-emp-inc,chicken pox
+52,male,250,Married-civ-spouse,Self-emp-inc,myopia
+65,female,155,Married-AF-spouse,Local-gov,crus fracture
+57,male,110,alone,Federal-gov,myopia
+57,female,120,Married-civ-spouse,Private,myopia
+18,male,130,alone,gov,rhinitis
+52,female,115,Married-AF-spouse,Self-emp-inc,burns
+45,male,140,Married,workclass,chicken pox
+50,male,125,Never-married,Self-emp-not-inc,glioma
+32,male,255,alone,workclass,osteoporosis
+53,male,205,Separated,Federal-gov,tonsillitis
+22,male,200,Separated,Self-emp-not-inc,drug allergy
+32,female,280,Divorced,Self-emp-not-inc,cough
+31,female,180,Married-spouse-absent,Self-emp-inc,chicken pox
+35,female,230,Divorced,Local-gov,osteoporosis
+23,male,180,Married-civ-spouse,Self-emp-inc,rhinitis
+19,female,205,Widowed,Self-emp-inc,chilblain
+45,male,235,alone,gov,congenital ear deformity
+21,male,200,Separated,workclass,chicken pox
+61,female,115,Never-married,Self-emp-not-inc,primary immunodeficiency disease
+26,male,100,Married-AF-spouse,Local-gov,acute pharyngitis
+54,female,180,Never-married,workclass,chilblain
+33,female,235,Married-spouse-absent,Federal-gov,diarrhea
+58,male,230,Married-civ-spouse,Self-emp-inc,chilblain
+23,male,185,Married,Self-emp-not-inc,fever
+36,male,245,alone,gov,myopia
+59,female,110,Never-married,Self-emp-inc,rhinitis
+33,female,230,Separated,Local-gov,periodontitis
+62,female,250,Married-spouse-absent,Self-emp-inc,drug allergy
+44,male,300,marital-status,Self-emp-not-inc,periodontitis
+25,female,295,alone,gov,arthritis
+33,male,90,Separated,Self-emp-inc,cough
+19,female,110,Never-married,Self-emp-not-inc,rhinitis
+20,male,110,Married,workclass,periodontitis
+65,male,150,marital-status,Self-emp-inc,osteoporosis
+23,female,125,alone,Self-emp-inc,chicken pox
+45,female,150,alone,Local-gov,headache
+41,female,280,Widowed,Private,rhinitis
+19,female,230,alone,Local-gov,malignant lymphoma
+37,male,190,alone,workclass,crus fracture
+47,female,105,Never-married,Private,leprosy
+56,female,130,Widowed,Self-emp-not-inc,headache
+65,female,260,Widowed,Local-gov,acute pharyngitis
+44,male,125,alone,Self-emp-inc,neck injury
+20,male,130,Widowed,Self-emp-inc,cough
+60,male,195,Married-civ-spouse,Self-emp-inc,burns
+49,female,125,Married-spouse-absent,Self-emp-inc,tonsillitis
+42,male,180,Married-civ-spouse,gov,osteoporosis
+36,female,190,Married,Self-emp-not-inc,myopia
+21,female,155,Married-spouse-absent,Federal-gov,rhinitis
+28,female,195,Married-spouse-absent,Local-gov,congenital ear deformity
+54,female,135,Married-AF-spouse,Federal-gov,arthritis
+63,female,145,Married,Federal-gov,fever
+33,female,140,Separated,Self-emp-not-inc,leprosy
+60,male,295,Widowed,gov,periodontitis
+48,male,170,Divorced,Self-emp-not-inc,cough
+32,female,160,Separated,Private,rhinitis
+33,male,105,Married-civ-spouse,Self-emp-not-inc,fever
+44,male,175,alone,Private,fever
+63,female,100,marital-status,workclass,acute pharyngitis
+41,male,180,Married-civ-spouse,Federal-gov,crus fracture
+48,male,155,alone,gov,primary immunodeficiency disease
+39,male,180,Separated,Self-emp-inc,arthritis
+59,male,145,marital-status,Local-gov,fibromyalgia
+64,male,160,marital-status,Private,periodontitis
+20,female,245,alone,gov,primary immunodeficiency disease
+54,male,90,Married,gov,tonsillitis
+48,female,265,alone,gov,neck injury
+45,male,95,Widowed,Private,neck injury
+41,male,100,alone,Self-emp-not-inc,myopia
+26,male,110,Married,gov,osteoporosis
+58,female,125,Widowed,gov,tonsillitis
+58,male,90,Married-civ-spouse,workclass,chicken pox
+41,female,285,alone,Private,tonsillitis
+52,male,245,Married,Self-emp-inc,fever
+44,female,175,Never-married,Local-gov,drug allergy
+23,male,250,alone,Private,drug allergy
+28,female,130,Married-civ-spouse,Self-emp-inc,drug allergy
+18,female,125,Married-AF-spouse,Self-emp-not-inc,myopia
+47,male,140,Married,Federal-gov,burns
+30,female,285,Married-spouse-absent,Federal-gov,chilblain
+64,female,260,alone,workclass,drug allergy
+55,male,210,Never-married,Self-emp-inc,diarrhea
+61,female,120,marital-status,Self-emp-inc,myopia
+55,female,280,Married-civ-spouse,Private,tonsillitis
+40,male,95,Married-civ-spouse,Local-gov,neck injury
+61,male,120,alone,workclass,rhinitis
+52,male,145,Widowed,Self-emp-not-inc,acute pharyngitis
+27,female,220,Separated,Private,osteoporosis
+28,female,290,Married-spouse-absent,Private,congenital ear deformity
+54,female,120,marital-status,gov,chilblain
+60,male,140,alone,gov,tonsillitis
+43,male,220,Never-married,gov,fibromyalgia
+58,male,285,Widowed,gov,osteoporosis
+18,male,195,Married-civ-spouse,Self-emp-inc,osteoporosis
+63,male,100,Married-AF-spouse,workclass,myopia
+54,female,165,Never-married,Private,cough
+29,male,260,Married-civ-spouse,workclass,headache
+29,male,180,Never-married,Self-emp-not-inc,acute pharyngitis
+37,male,245,Married-AF-spouse,workclass,fever
+56,male,160,alone,Self-emp-inc,crus fracture
+37,male,270,Separated,Self-emp-inc,diarrhea
+41,female,95,Widowed,Self-emp-inc,arthritis
+32,male,225,Never-married,gov,crus fracture
+45,male,200,Widowed,Self-emp-inc,neck injury
+35,female,110,Married-civ-spouse,Self-emp-inc,diabetes
+28,male,120,Married-AF-spouse,Private,crus fracture
+39,female,120,alone,gov,epidemic b encephalitis
+62,female,245,Divorced,gov,drug allergy
+37,female,155,alone,gov,congenital ear deformity
+48,female,280,Married,Self-emp-not-inc,cough
+28,male,290,Never-married,Self-emp-not-inc,fibromyalgia
+45,male,295,alone,Self-emp-inc,headache
+38,female,100,Married-AF-spouse,Private,arthritis
+62,male,270,alone,Self-emp-not-inc,primary immunodeficiency disease
+48,female,280,marital-status,Private,arthritis
+50,male,295,Married-AF-spouse,Private,chicken pox
+24,female,295,Divorced,workclass,tonsillitis
+39,female,100,Married-civ-spouse,Private,drug allergy
+50,male,150,Never-married,Federal-gov,tonsillitis
+52,male,110,Married,Self-emp-inc,headache
+28,male,150,Widowed,Federal-gov,drug allergy
+59,male,280,alone,Self-emp-inc,fever
+29,male,155,Married-AF-spouse,Self-emp-not-inc,arthritis
+26,male,90,Married,Private,diarrhea
+45,female,200,alone,gov,crus fracture
+27,female,180,alone,Local-gov,chicken pox
+33,female,155,Separated,gov,headache
+54,female,180,Divorced,workclass,chilblain
+31,female,175,alone,Local-gov,burns
+33,male,225,Separated,gov,glioma
+40,female,275,Married-AF-spouse,Self-emp-inc,cough
+58,female,260,Married,Self-emp-inc,diarrhea
+24,male,295,Divorced,Federal-gov,acute pharyngitis
+43,female,235,Never-married,workclass,fever
+64,male,205,Married-spouse-absent,Self-emp-inc,rhinitis
+45,male,170,alone,Private,headache
+30,female,195,alone,Federal-gov,diarrhea
+45,male,145,alone,Self-emp-not-inc,drug allergy
+56,male,110,alone,Self-emp-inc,fever
+50,male,230,Divorced,workclass,fever
+47,male,225,Divorced,gov,chicken pox
+26,male,105,Divorced,Local-gov,headache
+51,female,280,Married-spouse-absent,Federal-gov,primary immunodeficiency disease
+59,male,290,Never-married,Federal-gov,drug allergy
+58,male,150,alone,Federal-gov,tonsillitis
+51,male,200,Married-spouse-absent,Local-gov,crus fracture
+25,female,260,Married-civ-spouse,Self-emp-not-inc,tonsillitis
+32,female,105,Never-married,Private,neck injury
+58,male,135,marital-status,workclass,arthritis
+58,female,185,alone,Self-emp-not-inc,fever
+35,female,145,Never-married,Self-emp-inc,chicken pox
+45,female,235,Divorced,Self-emp-not-inc,periodontitis
+49,female,255,Divorced,gov,chicken pox
+22,female,145,Married-spouse-absent,gov,periodontitis
+36,male,185,Married-civ-spouse,Federal-gov,primary immunodeficiency disease
+21,male,200,Widowed,Self-emp-not-inc,drug allergy
+58,female,230,Married-spouse-absent,Local-gov,drug allergy
+37,female,250,marital-status,workclass,neck injury
+34,male,115,Married,Private,osteoporosis
+21,female,205,Married,Private,diarrhea
+33,female,215,Never-married,gov,myopia
+62,female,280,Married-spouse-absent,Private,diarrhea
+46,female,285,Divorced,Self-emp-inc,myopia
+42,female,160,Married,workclass,neck injury
+63,female,165,Never-married,Private,periodontitis
+55,female,140,alone,workclass,HIV
+26,female,260,Divorced,Private,ankylosing spondylitis
+28,female,290,Married-AF-spouse,Private,osteoporosis
+37,male,120,Never-married,Local-gov,epidemic b encephalitis
+18,male,265,Married,Local-gov,osteoporosis
+48,male,240,Married-AF-spouse,Private,drug allergy
+49,female,280,marital-status,workclass,diarrhea
+49,female,115,Separated,Local-gov,fibromyalgia
+58,male,280,alone,Federal-gov,headache
+48,male,90,Separated,Self-emp-not-inc,drug allergy
+21,female,170,Married,workclass,crus fracture
+50,female,145,Married,Self-emp-not-inc,chilblain
+26,female,225,Married-civ-spouse,Private,acute pharyngitis
+57,male,255,Never-married,Self-emp-inc,headache
+51,female,175,Married,Local-gov,osteoporosis
+53,male,270,alone,workclass,chicken pox
+39,male,155,Divorced,Self-emp-inc,chicken pox
+49,female,205,Married,Local-gov,periodontitis
+19,female,285,Separated,gov,drug allergy
+32,male,130,Married,gov,myopia
+27,male,105,Divorced,workclass,epidemic b encephalitis
+48,female,150,Married-AF-spouse,Self-emp-inc,osteoporosis
+19,male,120,alone,workclass,diabetes
+18,male,115,Married-civ-spouse,gov,chilblain
+42,female,160,marital-status,Local-gov,diarrhea
+24,male,180,Divorced,Self-emp-not-inc,fever
+62,female,225,Widowed,Self-emp-not-inc,drug allergy
+18,female,285,Divorced,Local-gov,chicken pox
+50,male,120,alone,Private,rhinitis
+26,male,95,alone,Federal-gov,crus fracture
+64,female,260,Married-spouse-absent,gov,epidemic b encephalitis
+40,male,180,Never-married,workclass,neck injury
+35,female,115,alone,Federal-gov,primary immunodeficiency disease
+43,male,125,Separated,gov,neck injury
+25,male,150,Widowed,gov,rhinitis
+45,female,220,Married-AF-spouse,Self-emp-not-inc,diabetes
+21,male,105,marital-status,workclass,myopia
+39,male,105,Married-spouse-absent,Local-gov,ankylosing spondylitis
+39,male,175,Married,Local-gov,epidemic b encephalitis
+59,male,250,Married,Federal-gov,osteoporosis
+20,female,285,Married-AF-spouse,Local-gov,acute pharyngitis
+40,male,100,Separated,gov,cough
+60,female,105,Never-married,Federal-gov,primary immunodeficiency disease
+24,male,265,Married-AF-spouse,gov,epidemic b encephalitis
+19,male,165,Married,workclass,neck injury
+40,male,225,Married-civ-spouse,workclass,acute pharyngitis
+54,male,290,Married-civ-spouse,Federal-gov,periodontitis
+19,female,220,marital-status,workclass,neck injury
+18,male,155,Divorced,Local-gov,headache
+26,female,280,Married,Self-emp-inc,cough
+51,female,290,Married-spouse-absent,gov,rhinitis
+26,female,280,Married,Private,chicken pox
+22,male,230,Married-AF-spouse,Federal-gov,tonsillitis
+41,male,170,alone,Federal-gov,congenital ear deformity
+55,male,150,alone,Local-gov,chicken pox
+62,female,100,Married-civ-spouse,Federal-gov,chilblain
+47,male,240,marital-status,Self-emp-not-inc,cough
+24,female,100,Divorced,Local-gov,drug allergy
+54,male,230,alone,Local-gov,periodontitis
+29,male,235,Married-AF-spouse,Self-emp-not-inc,osteoporosis
+65,female,285,Married-AF-spouse,Federal-gov,diabetes
+25,male,110,Widowed,gov,rhinitis
+23,female,95,Never-married,Private,diarrhea
+42,male,235,Married,Private,tuberculosis
+25,female,95,Married-spouse-absent,Federal-gov,cough
+28,female,150,Married-spouse-absent,Local-gov,congenital ear deformity
+26,male,175,alone,gov,cough
+55,male,195,Married-spouse-absent,Self-emp-inc,arthritis
+44,male,255,Married-spouse-absent,gov,myopia
+51,female,250,Separated,Private,cough
+47,male,265,Divorced,gov,drug allergy
+60,male,190,Never-married,Local-gov,ankylosing spondylitis
+56,male,285,Divorced,Local-gov,osteoporosis
+47,female,300,Widowed,workclass,drug allergy
+18,female,145,Never-married,Private,neck injury
+55,male,265,alone,Local-gov,fever
+30,female,250,Divorced,gov,crus fracture
+34,male,90,Married-AF-spouse,workclass,headache
+20,female,120,Separated,Self-emp-inc,epidemic b encephalitis
+62,female,165,alone,Self-emp-inc,epidemic b encephalitis
+57,female,195,Separated,Self-emp-inc,headache
+39,male,270,Married-spouse-absent,Self-emp-inc,crus fracture
+25,female,135,Widowed,workclass,drug allergy
+65,male,135,Married-spouse-absent,Federal-gov,congenital ear deformity
+22,male,165,Separated,workclass,diabetes
+41,female,250,Separated,Self-emp-not-inc,rhinitis
+42,male,145,Married-spouse-absent,Local-gov,fever
+37,female,250,Widowed,Private,osteoporosis
+43,female,115,Married-AF-spouse,Local-gov,tonsillitis
+27,male,270,Never-married,workclass,headache
+36,male,230,marital-status,Self-emp-not-inc,chicken pox
+60,male,95,Separated,workclass,diabetes
+65,female,135,Married,Self-emp-not-inc,cough
+22,female,215,Married-AF-spouse,Federal-gov,periodontitis
+34,female,165,Married-spouse-absent,workclass,fever
+20,male,285,alone,Federal-gov,crus fracture
+64,male,130,Widowed,Self-emp-inc,diarrhea
+45,male,90,alone,Private,chilblain
+41,male,235,Married,Local-gov,primary immunodeficiency disease
+36,female,115,Separated,Self-emp-not-inc,primary immunodeficiency disease
+29,female,250,Never-married,workclass,diarrhea
+39,male,180,Separated,workclass,crus fracture
+62,female,275,Married-civ-spouse,Self-emp-inc,fever
+38,female,120,Never-married,Local-gov,myopia
+34,female,165,Never-married,Federal-gov,headache
+29,male,160,Divorced,Self-emp-inc,chicken pox
+24,female,95,Never-married,Local-gov,epidemic b encephalitis
+59,male,240,marital-status,Self-emp-not-inc,chilblain
+22,female,150,Married-civ-spouse,Private,neck injury
+34,female,115,alone,Self-emp-not-inc,diarrhea
+24,female,285,Divorced,Private,myopia
+29,female,235,Married,Federal-gov,diarrhea
+57,female,190,marital-status,Private,ankylosing spondylitis
+58,male,290,alone,Self-emp-inc,periodontitis
+44,female,210,Married-AF-spouse,gov,periodontitis
+51,male,140,Married-civ-spouse,Local-gov,osteoporosis
+37,female,175,Married,Federal-gov,periodontitis
+31,male,195,Never-married,Self-emp-not-inc,tonsillitis
+34,male,215,Never-married,Self-emp-inc,myopia
+25,female,300,Married,Self-emp-not-inc,congenital ear deformity
+58,male,155,Divorced,Private,ankylosing spondylitis
+50,female,255,Divorced,Federal-gov,chilblain
+19,female,130,Married-AF-spouse,Self-emp-inc,chicken pox
+25,female,220,alone,Self-emp-not-inc,burns
+45,female,255,alone,gov,diarrhea
+38,female,280,Separated,Self-emp-inc,arthritis
+54,male,140,Married-civ-spouse,workclass,epidemic b encephalitis
+31,male,110,Never-married,Self-emp-inc,diarrhea
+53,female,105,Separated,gov,epidemic b encephalitis
+63,male,290,Married,gov,arthritis
+30,male,140,Married-spouse-absent,Self-emp-not-inc,neck injury
+41,male,140,Widowed,Self-emp-inc,chilblain
+35,male,105,alone,Self-emp-inc,primary immunodeficiency disease
+41,female,145,Married-spouse-absent,workclass,myopia
+63,male,120,Married,workclass,osteoporosis
+42,male,250,Divorced,Private,osteoporosis
+32,male,95,alone,workclass,cough
+50,female,105,Separated,Local-gov,chilblain
+54,male,210,Widowed,Self-emp-inc,drug allergy
+59,female,235,alone,Local-gov,drug allergy
+43,male,260,Married-AF-spouse,gov,rhinitis
+49,male,200,alone,workclass,drug allergy
+32,male,140,alone,workclass,congenital ear deformity
+62,female,140,Married-AF-spouse,Federal-gov,osteoporosis
+30,male,175,Divorced,Private,myopia
+49,female,170,alone,Federal-gov,myopia
+34,female,155,Never-married,gov,rhinitis
+39,female,235,Married-civ-spouse,Federal-gov,chilblain
+26,female,240,Married-spouse-absent,gov,diabetes
+30,male,125,Never-married,Local-gov,acute pharyngitis
+29,male,215,Separated,Federal-gov,arthritis
+25,female,105,alone,Federal-gov,osteoporosis
+28,female,200,Married,workclass,cough
+54,female,180,alone,gov,crus fracture
+20,male,185,Divorced,Self-emp-not-inc,crus fracture
+45,male,130,Widowed,Self-emp-inc,headache
+27,female,145,Married-spouse-absent,workclass,headache
+21,male,245,Separated,gov,myopia
+63,male,135,Widowed,Private,periodontitis
+23,female,90,marital-status,Self-emp-inc,chilblain
+30,female,255,Widowed,Self-emp-inc,fibromyalgia
+40,female,110,Married-AF-spouse,Federal-gov,acute pharyngitis
+22,female,180,Married,gov,chicken pox
+29,male,290,alone,Self-emp-not-inc,headache
+32,female,205,Married-AF-spouse,Private,drug allergy
+38,male,180,Separated,Local-gov,fever
+61,male,290,Separated,gov,periodontitis
+59,female,150,alone,Local-gov,periodontitis
+53,male,140,alone,workclass,chicken pox
+44,male,225,marital-status,Private,primary immunodeficiency disease
+58,male,220,Divorced,Self-emp-inc,neck injury
+64,male,115,Married-spouse-absent,gov,crus fracture
+35,male,90,Divorced,Local-gov,myopia
+59,male,110,Separated,Private,crus fracture
+56,male,190,Married-AF-spouse,Private,myopia
+38,male,255,alone,Private,headache
+40,male,265,Married-AF-spouse,Private,primary immunodeficiency disease
+22,female,145,Widowed,Self-emp-not-inc,acute pharyngitis
+28,female,115,Divorced,workclass,chilblain
+64,male,270,alone,Self-emp-not-inc,osteoporosis
+32,male,265,marital-status,Self-emp-inc,headache
+47,male,160,Married-civ-spouse,gov,drug allergy
+24,male,205,Never-married,Local-gov,periodontitis
+44,female,285,Widowed,workclass,neck injury
+42,male,110,Married-civ-spouse,Private,congenital ear deformity
+37,male,150,marital-status,Private,tonsillitis
+46,female,190,alone,workclass,chicken pox
+34,male,250,Divorced,workclass,primary immunodeficiency disease
+29,female,130,alone,workclass,chilblain
+57,male,180,Divorced,workclass,neck injury
+28,female,235,Separated,workclass,fever
+45,female,255,Separated,Local-gov,cough
+58,female,110,Never-married,Self-emp-inc,tonsillitis
+38,male,140,Married,workclass,diabetes
+58,female,120,Married-AF-spouse,gov,myopia
+51,male,225,Married-AF-spouse,Self-emp-inc,chilblain
+60,male,280,Married,Federal-gov,diarrhea
+58,male,120,Divorced,Self-emp-inc,cough
+25,female,95,alone,workclass,fever
+56,male,225,Married,workclass,epidemic b encephalitis
+34,male,260,Married,gov,fever
+42,female,190,alone,Private,neck injury
+61,male,285,Married-AF-spouse,Federal-gov,crus fracture
+51,male,130,Married-AF-spouse,Self-emp-inc,tonsillitis
+63,male,210,alone,Self-emp-not-inc,primary immunodeficiency disease
+20,male,275,alone,Self-emp-inc,headache
+25,male,120,Separated,gov,neck injury
+18,female,160,marital-status,gov,ankylosing spondylitis
+35,male,200,Married-spouse-absent,Self-emp-not-inc,drug allergy
+22,female,255,marital-status,Federal-gov,primary immunodeficiency disease
+41,female,190,Divorced,Federal-gov,acute pharyngitis
+62,female,125,Married-spouse-absent,Federal-gov,headache
+38,female,290,alone,Private,neck injury
+51,male,265,Married-civ-spouse,gov,tonsillitis
+42,female,215,Married-AF-spouse,Local-gov,diarrhea
+56,female,95,Widowed,Private,cough
+41,female,155,alone,Local-gov,congenital ear deformity
+43,female,170,Widowed,Federal-gov,rhinitis
+23,female,105,Widowed,Private,diarrhea
+63,male,220,Married-civ-spouse,workclass,epidemic b encephalitis
+38,male,265,Never-married,Self-emp-not-inc,chilblain
+30,female,155,Divorced,Self-emp-not-inc,cough
+31,male,130,Married-AF-spouse,Local-gov,fever
+32,female,295,Separated,gov,arthritis
+33,male,170,alone,Local-gov,acute pharyngitis
+42,female,90,Married,Federal-gov,diabetes
+48,female,95,alone,Federal-gov,fever
+51,female,155,Married-AF-spouse,gov,congenital ear deformity
+27,male,205,Married-spouse-absent,Private,cough
+48,female,170,alone,Self-emp-not-inc,rhinitis
+32,female,130,Separated,gov,drug allergy
+49,female,300,alone,gov,arthritis
+55,female,200,alone,workclass,drug allergy
+55,female,110,Widowed,gov,acute pharyngitis
+48,female,300,alone,Local-gov,periodontitis
+20,female,125,Married,Private,epidemic b encephalitis
+35,female,145,Married-spouse-absent,Private,osteoporosis
+56,male,160,Married-civ-spouse,Self-emp-inc,fever
+65,male,245,Married-spouse-absent,Local-gov,ankylosing spondylitis
+29,female,195,alone,gov,fever
+39,female,205,Married,gov,myopia
+41,male,155,Separated,workclass,diarrhea
+42,male,250,Married,Local-gov,tonsillitis
+25,female,160,Married-civ-spouse,Federal-gov,cough
+44,male,100,Widowed,Self-emp-not-inc,cough
+35,male,265,Widowed,Local-gov,osteoporosis
+63,female,215,alone,workclass,myopia
+23,female,165,marital-status,gov,drug allergy
+20,male,295,Separated,Self-emp-inc,arthritis
+28,male,215,Married,workclass,diabetes
+31,female,230,Married-spouse-absent,Federal-gov,tonsillitis
+46,female,265,Married-civ-spouse,Self-emp-not-inc,crus fracture
+37,male,240,Never-married,gov,osteoporosis
+57,male,175,Married-AF-spouse,Self-emp-not-inc,chilblain
+53,male,295,alone,workclass,arthritis
+22,male,140,Married-AF-spouse,Self-emp-not-inc,cough
+41,male,210,alone,workclass,diarrhea
+22,female,255,Married-AF-spouse,workclass,cough
+34,female,160,Married-spouse-absent,Self-emp-not-inc,primary immunodeficiency disease
+46,male,295,Never-married,Local-gov,crus fracture
+60,male,110,Married-AF-spouse,workclass,periodontitis
+58,male,290,alone,Private,osteoporosis
+63,male,140,alone,gov,congenital ear deformity
+18,female,115,marital-status,Federal-gov,crus fracture
+23,female,230,Divorced,gov,tonsillitis

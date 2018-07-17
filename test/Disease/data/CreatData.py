@@ -46,6 +46,11 @@ Job=['workclass','gov','Private','Self-emp-not-inc','Self-emp-inc','Local-gov','
 #属性为Age,Sex,Weight,Married,Job,Disease
 
 def CreatData(max):
+    '''
+    制造数据
+    :param max: max为要制造的数据数量
+    :return:
+    '''
     n,b=0,1
     file=open('data.txt','w')
     while n<max:

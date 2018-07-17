@@ -7,9 +7,10 @@ high=('malignant lymphoma', 'HIV', 'leprosy', 'glioma', 'tuberculosis')
 data=[] #数据元组
 attributes = ('age','sex','weight','marital-status','workclass','disease')  #数据的所有属性值
 QID = (0,1,2,3,4,5) #要进行匿名的属性值
+QID_Th=(0.1 ,0.1 ,0.1,0.1 ,0.01)#阈值：每个属性的信息损失量能承受的最大值
 Anonymity_data=[]
 Trees = GetTrees()   #保存属性的树
-Th = 0.5   #阈值：单个属性的信息损失量
+
 
 def Init():
     '''
@@ -45,7 +46,7 @@ def Anonymity():
             else:#其余根据阈值匿名
                 Loss = GetLoss(Trees[num], data[i][num])#计算损失率
                 PayOff = GetPayOff(Trees[num], data[i][num])#计算收益
-                while Loss < Th:#损失率小于阈值则继续匿名
+                while Loss < QID_Th[num]:#损失率小于阈值则继续匿名
                     tmp_attribute = climb(Trees[num], data[i][num])
                     PayOff = GetPayOff(Trees[num], tmp_attribute)  # 根据属性匿名程度不断更新PayOff
                     data[i][num] = tmp_attribute  # 更新匿名属性
