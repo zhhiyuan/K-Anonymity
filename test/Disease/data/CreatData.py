@@ -73,7 +73,7 @@ def CreatData(max):
     return 'done'
 
 if __name__ == '__main__':
-    g=CreatData(1000)
+    g=CreatData(10000)
     while True:
         try:
             x=next(g)
